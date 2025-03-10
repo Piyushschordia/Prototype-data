@@ -1,0 +1,39 @@
+Currency,Unit,,Description,Q1 22,Q2 22,Q3 22,Q4 22,Q1 23,Q2 23,Q3 23,Q4 23,Q1 24,Q2 24,Q3 24
+,,,Period Ended On (MM/DD/YYYY),03/31/2022,06/30/2022,09/30/2022,12/31/2022,03/31/2023,06/30/2023,09/30/2023,12/31/2023,03/31/2024,06/30/2024,09/30/2024
+,,,Reported Date (MM/DD/YYYY),04/28/2022,07/27/2022,10/26/2022,02/16/2023,04/27/2023,07/26/2023,10/25/2023,02/15/2024,04/25/2024,07/31/2024,10/30/2024
+,,Abstract bold color,Fosterville Mine, ,,,,,,,,,,
+,Thousand,Indent,Fosterville - Ore Milled (000's tonnes),91.4,122.1,171.9,139.1,147.5,176.3,144.1,182.8,172.0,234.1,245.7
+,Actual,Indent,Fosterville - Grade gold (g/tonne),28.13,22.24,15.11,20.29,18.55,14.77,13.22,8.79,10.51,9.06,8.61
+,Actual,Indent,Fosterville - Mill Recovery %,99.0%,98.6%,97.9%,98.4%,98.4%,97.7%,97.3%,96.1%,97.3%,96.7%,96.2%
+,Actual,Indent,Fosterville - Payable metal produced gold Oz,"81,827","86,065","81,801","88,634","86,558","81,813","59,790","49,533","56,569","65,963","65,532"
+,Actual,Indent,Fosterville - Payable metal sold gold Oz,"101,950","93,177","79,458","81,750","89,000","85,500","60,750","49,000","58,000","62,049","67,198"
+$,Thousand,Indent+Bold,Revenue from Fosteville mine,"194,857","173,745","137,671","139,098","169,301","168,074","116,916","98,177","121,035","145,026","167,368"
+,,Abstract bold color,Costs for Fosterville, ,,,,,,,,,,
+$,Thousand,Indent,Fosterville - Production costs,"88,001","48,303","34,214","34,131","36,599","35,831","27,539","31,329","33,654","36,824","44,346"
+$,Thousand,,Cash operating profit,"106,856","125,442","103,457","104,967","132,702","132,243","89,377","66,848","87,381","108,202","123,022"
+$,Thousand,Indent,Fosterville - Amortization,"13,885","17,145","20,682","13,362","19,432","25,734","18,685","24,193","23,147","21,188","28,717"
+$,Thousand,Bold,Operating profit post amortization,"92,971","108,297","82,775","91,605","113,270","106,509","70,692","42,655","64,234","87,014","94,305"
+,,,, ,,,,,,,,,,
+,,Abstract Bold,Fosterville - Cost Reconciliation, ,,,,,,,,,,
+$,Thousand,Indent,Fosterville - Production costs,"88,001","48,303","34,214","34,131","36,599","35,831","27,539","31,329","33,654","36,824","44,346"
+$,Thousand,Indent,Fosterville - By-product metal revenues,-188,-125,-88,-126,-157,-121,-119, -   ,-160,-167,-135
+$,Thousand,Indent,Fosterville - Inventory and other adjustments,"-62,516","-17,967","1,424","2,694","-2,130",-40,"2,201","4,462","-3,101","3,462","-1,580"
+$,Thousand,Indent,Fosterville - Cash operating costs,"25,297","30,211","35,550","36,699","34,312","35,670","29,621","35,791","30,393","40,119","42,631"
+$,Actual,Indent+Bold,Fosterville - Total cash costs ( Per ounce of commercial production),309,351,435,414,396,436,495,723,537,608,651
+C$,Thousand,Indent,Fosterville - Minesite operating costs (A$),"33,521","43,932","52,689","56,386","50,581","53,524","44,012","47,649","47,219","60,521","64,181"
+C$,Thousand,Indent,Fosterville - Minesite costs per tonne (A$),367,370,305,399,343,304,304,261,275,259,261
+,,Abstract bold color Indent,Capital Expenditures, ,,,,,,,,,,
+$,Thousand,,Total Capital Expenditures,"17,190","24,868","25,730","26,924","17,073","20,598","23,855","20,851","18,535","19,834","20,442"
+$,Thousand,,Total Sustaining Capital Expenditures,"8,707","13,598","14,513","19,526","7,969","7,298","10,057","8,978","5,483","7,306","9,509"
+,,Abstract bold color Indent,Supplementary Data,,,,,,,,,,,
+$,Thousand,,Capital Expenditures,"12,720","14,909","21,023","21,144","10,810","15,824","19,840","20,851","14,911","16,492","17,911"
+$,Thousand,,Capitalized Exploration,"4,470","9,959","4,707","5,780","6,263","4,773","4,015","5,062","3,624","3,342","2,531"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,,,,,,,
+,Actual,,Labour,37%,26%,37%,40%,41%,41%,39%,41%,42%,31%,32%
+,Actual,, Contractors,15%,7%,11%,11%,11%,11%,11%,10%,11%,10%,13%
+,Actual,,Energy,7%,6%,10%,9%,9%,8%,9%,9%,9%,7%,7%
+,Actual,,Chemical,0%,0%,1%,1%,2%,2%,2%,2%,2%,3%,4%
+,Actual,,Consumables/Other,41%,61%,41%,39%,37%,38%,39%,38%,36%,49%,44%
+,Actual,Bold,Total,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,,,,,,,,,,,
+$,Actual,,Total Cash Costs (US$/oz),309,351,435,414,396,436,495,723,537,608,651

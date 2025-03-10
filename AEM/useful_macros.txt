@@ -1,0 +1,23 @@
+Sub Worksheets_Name_Cleanup()
+    Dim ws As Worksheet
+    For Each ws In ThisWorkbook.Worksheets
+        ws.Name = Replace(ws.Name, " ", "")
+        ws.Name = Replace(ws.Name, "(", "")
+        ws.Name = Replace(ws.Name, ")", "")
+        ws.Name = ws.Name + "_mine"
+    Next ws
+End Sub
+
+
+
+Sub ListSheets()
+Dim ws As Worksheet
+Dim x As Integer
+x = 1
+Sheets("Sheet1").Range("A:A").Clear >> Add Blank Sheet1
+For Each ws In Worksheets
+     Sheets("Sheet1").Cells(x, 1) = ws.Name
+     x = x + 1
+Next ws
+
+End Sub

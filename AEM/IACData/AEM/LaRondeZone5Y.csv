@@ -1,0 +1,42 @@
+Currency,Unit,,Description,FY 18,FY 19,FY 20,FY 21,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),12/31/2018,12/31/2019,12/31/2020,12/31/2021,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),02/19/2019,02/18/2020,02/11/2021,02/23/2022,02/16/2023,02/15/2024
+,,Abstract bold color,LaRonde Zone 5 (LZ5) Mine, ,,,,,
+,Thousand,,LZ5 - Ore milled ('000 tonnes),224.6,869.6,968.0,"1,124.0","1,145.8","1,156.9"
+,Actual,Indent,LZ5 - Grade gold (g/tonne),2.76,2.27,2.10,2.07,2.05,2.01
+,Actual,Indent,LZ5 - Mill recoveries %,96.00%,95.00%,94.60%,94.80%,94.60%,93.80%
+,Actual,Indent,LZ5 - Payable metal produced gold Oz,"18,620","59,830","61,674","70,788","71,557","70,657"
+,Actual,Indent,LZ5 - Payable metal sold gold oz,"17,469","56,998","61,974","67,588","72,184","68,174"
+$,Thousand,Indent+Bold, Revenue from LZ5 mine,"21,327","80,365","111,244","121,236","129,569","130,711"
+,,Abstract bold color Indent, Costs for LZ5, ,,,,,
+$,Thousand,Indent, LZ5 - Production costs,"12,991","41,212","47,899","56,380","72,096","81,624"
+$,Thousand,,Cash Operating Profit,"8,336","39,153","63,345","64,856","57,473","49,087"
+$,Thousand,Indent,LZ5 - Amortization,"1,658","6,818","8,240","7,635","8,927","13,333"
+$,Thousand,,Operating profit post amortization,"6,678","32,335","55,105","57,221","48,546","35,754"
+,,Abstract Bold,LZ5 - Cost Reconciliation:, ,,,,,
+$,Thousand,,LZ5 - Production costs,"12,991","41,212","47,899","56,380","72,096","81,624"
+$,Thousand,Indent,LZ5 - By-product metal revenues,-21,-185,-261,-288,-259,-711
+$,Thousand,Indent,LZ5 - Inventory and other adjustments,656,"2,169","-1,096",-166,"1,235",199
+$,Thousand,Indent,     LZ5- Non-cash reclamation provision, ,,,,,
+$,Thousand,Indent,LZ5 - Cash operating costs,"13,626","43,196","46,542","55,926","73,072","81,112"
+$,Actual,Abstract Bold,  LZ5 - Total cash costs ( Per ounce of commercial production),732,722,755,790,"1,021","1,148"
+C$,Thousand,Indent,LZ5 - Minesite operating costs (C$),"17,973","57,499","63,090","73,217","93,366","105,274"
+C$,Actual,Indent,LZ5 - Minesite costs per tonne (C$),80,66,65,65,81,91
+,,Abstract bold color Indent,Capital Expenditures, ,,,,,
+$,Thousand,,Total Capital Expenditures,"24,535","8,977","9,999","18,877","26,449","33,318"
+$,Thousand,,Total Sustaining Capital Expenditures,"3,058","6,207","9,299","4,782","9,258","9,250"
+,,Abstract bold color Indent,Supplementary Data,,,,,,
+$,Thousand,,Capital Expenditures,"24,476","8,977","9,976","18,760","25,523","33,318"
+$,Thousand,,Capitalized Exploration,,,24,117,926,"1,003"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,,
+,Actual,,Labour,18%,12%,13%,15%,22%,25%
+,Actual,,Contractors,49%,38%,35%,32%,26%,27%
+,Actual,,Energy,9%,7%,6%,5%,7%,6%
+,Actual,,Chemical,5%,8%,6%,6%,5%,1%
+,Actual,,Consumables/Other,19%,35%,40%,42%,40%,41%
+,Actual,Bold,Total,100%,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,"52,376","59,379","64,577","79,835","96,397","119,252"
+$,Actual,,Total Cash Costs (US$/oz),732,722,755,790,"1,021","1,148"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

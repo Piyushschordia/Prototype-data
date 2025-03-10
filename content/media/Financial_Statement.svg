@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.35"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Financial_Statement.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="34.326752"
+     inkscape:cx="13.269534"
+     inkscape:cy="14.347411"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
+     inkscape:window-y="230"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#666666;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 0 1.5001668 L 0 2.2939168 L 0 3.5000448 L 0 3.7646281 L 0 5.0002116 L 0 5.2647949 L 0 6.35 L 0 6.6145833 L 6.35 6.6145833 L 6.35 6.35 L 6.35 2.1502563 L 6.35 1.5001668 L 0 1.5001668 z M 0.26458333 2.2939168 L 2.1166667 2.2939168 L 2.1166667 3.5000448 L 0.26458333 3.5000448 L 0.26458333 2.2939168 z M 2.38125 2.2939168 L 4.2333333 2.2939168 L 4.2333333 3.5000448 L 2.38125 3.5000448 L 2.38125 2.2939168 z M 4.4979167 2.2939168 L 6.0854167 2.2939168 L 6.0854167 3.5000448 L 4.4979167 3.5000448 L 4.4979167 2.2939168 z M 0.26458333 3.7646281 L 2.1166667 3.7646281 L 2.1166667 5.0002116 L 0.26458333 5.0002116 L 0.26458333 3.7646281 z M 2.38125 3.7646281 L 4.2333333 3.7646281 L 4.2333333 5.0002116 L 2.38125 5.0002116 L 2.38125 3.7646281 z M 4.4979167 3.7646281 L 6.0854167 3.7646281 L 6.0854167 5.0002116 L 4.4979167 5.0002116 L 4.4979167 3.7646281 z M 0.26458333 5.2647949 L 2.1166667 5.2647949 L 2.1166667 6.35 L 0.26458333 6.35 L 0.26458333 5.2647949 z M 2.38125 5.2647949 L 4.2333333 5.2647949 L 4.2333333 6.35 L 2.38125 6.35 L 2.38125 5.2647949 z M 4.4979167 5.2647949 L 6.0854167 5.2647949 L 6.0854167 6.35 L 4.4979167 6.35 L 4.4979167 5.2647949 z " />
+  </g>
+</svg>

@@ -1,0 +1,101 @@
+<div class="level-indicator">
+                <span class="icon-home3"></span>
+
+                <div class="level-btn" data-level="1"></div>
+                <div class="level-btn" data-level="2"></div>
+                <div class="level-btn" data-level="3"></div>
+            </div>
+            <div class="statement-menu">
+                <div class="statement-icon"><span class="icon-news"></span></div>
+                <div class="statement-list">
+                    <div class="menu-container" data-listno="1">
+                        <div class="menu-item" data-level="1" data-openlist="2">Financials</div>
+                        <div class="menu-item" data-level="1" data-openlist="3">Operational Data
+                        </div>
+                        <div class="menu-item" data-level="1" data-action="showtable" data-frequency="Q"
+                             data-frequencybtns="QY"
+                             data-stmtname="SupplementaryData">Supplementary Data
+                        </div>
+                        <div class="menu-item" data-level="1" data-action="showtable" data-frequency="Q"
+                             data-frequencybtns="QY"
+                             data-stmtname="AggregateFigures">Aggregate Figures
+                        </div>
+                        <div class="menu-item" data-level="1" data-openlist="6">Non IFRS Financials
+                        </div>
+                    </div>
+                    <div class="menu-container" data-listno="2">
+                        <div class="menu-item previousmenu" data-level="2" data-openlist="1"> Previous</div>
+                        <div class="menu-item" data-level="2" data-action="showtable" data-frequency="Q"
+                             data-frequencybtns="QY"
+                             data-stmtname="IncomeStatement">Income Statement
+                        </div>
+                        <div class="menu-item" data-level="2" data-action="showtable" data-frequency="Q"
+                             data-frequencybtns="QY"
+                             data-stmtname="BalanceSheet">Balance Sheet
+                        </div>
+                        <div class="menu-item" data-level="2" data-action="showtable" data-frequency="Y"
+                             data-frequencybtns="YYTD"
+                             data-stmtname="CashFlow">Cashflow Statement
+                        </div>
+                    </div>
+                    <div class="menu-container" data-listno="3">
+                        <div class="perfect-scroll" style="height:calc(100vh - 335px)">
+                            <div class="menu-item previousmenu" data-level="2" data-openlist="1"> Previous</div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="LaRonde">LaRonde
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="LaRondeZone5">LaRonde Zone 5
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Goldex">Goldex
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Lapa">Lapa
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Kittila">Kittila
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="PinosAltos">Pinos Altos
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Meadowbank">Meadowbank
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="LaIndia">La India
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="CanadianMalartic">Canadian Malartic
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Meliadine">Meliadine
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="HopeBay">Hope Bay
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="DetourLake">Detour Lake
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Macassa">Macassa
+                            </div>
+                            <div class="menu-item" data-action="showtable" data-frequency="Q" data-frequencybtns="QY"
+                                 data-stmtname="Fosterville">Fosterville
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu-container" data-listno="5">
+                        <div class="menu-item previousmenu" data-level="2" data-openlist="1"> Previous</div>
+                        <div class="menu-item" data-action="showtable" data-frequency="Y" data-frequencybtns="A"
+                             data-stmtname="chg">Totals Segment
+                        </div>
+                        <div class="menu-item" data-action="showtable" data-frequency="Y" data-frequencybtns="A"
+                             data-stmtname="chg">Realized Prices
+                        </div>
+                        <div class="menu-item" data-action="showtable" data-frequency="Y" data-frequencybtns="A"
+                             data-stmtname="chg">Total Cash Costs (US$/oz)
+                        </div>
+                    </div>
+                </div>
+            </div>

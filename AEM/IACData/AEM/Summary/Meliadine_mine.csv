@@ -1,0 +1,41 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Meliadine Mine,,
+,Thousand,Indent,Meliadine - Ore milled ('000 tonnes),"1,918.1",532.5
+,Actual,Indent,Meliadine - Grade gold (g/tonne),6.11,6.08
+,Actual,Indent,Meliadine - Mill recoveries %,96.60%,96.70%
+,Actual,Indent,Meliadine - Payable metal produced gold Oz,"364,141","99,838"
+,Actual,Indent,Meliadine - Payable metal sold gold oz,"358,485","83,900"
+$,Thousand,Indent Bold, Revenue from Meliadine mine,"697,431","208,209"
+,,Abstract bold color, Costs for Meliadine,,
+$,Thousand,Indent,Meliadine - Production costs,"343,650","75,099"
+$,Thousand,,Cash Operating Profit,"353,781","133,110"
+$,Thousand,Indent,Meliadine - Amortization,"182,530","46,752"
+$,Thousand,,Operating profit post amortization,"171,251","86,358"
+,,Abstract Bold,Meliadine - Cost Reconciliation:,,
+$,Thousand,,Meliadine - Production costs,"343,650","75,099"
+$,Thousand,Indent,Meliadine - By-product metal revenues,-630,-135
+$,Thousand,Indent,Meliadine - Inventory and other adjustments,"13,708","13,782"
+$,Thousand,Indent,Meliadine - Cash operating costs,"356,728","88,746"
+$,Actual,Indent Bold,  Meliadine - Total cash costs ( Per ounce of commercial production),980,889
+C$,Thousand,Indent,Meliadine - Minesite operating costs (C$),"478,240","120,328"
+C$,Actual,Indent,Meliadine - Minesite costs per tonne (C$),249,226
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"174,900","44,995"
+$,Thousand,,Total Sustaining Capital Expenditures,"67,947","22,037"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"174,900","40,786"
+$,Thousand,,Capitalized Exploration,"19,255","4,209"
+$,Thousand,,Other Income Statement Line Items,,
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,26%,26%
+,Actual,, Contractors,22%,23%
+,Actual,,Energy,12%,9%
+,Actual,,Chemical,2%,3%
+,Actual,,Consumables/Other,38%,39%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"1,853,741",
+$,Actual,,Total Cash Costs (US$/oz),980,889
+,,,,,
+,,,,,

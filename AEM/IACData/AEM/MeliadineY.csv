@@ -1,0 +1,41 @@
+Currency,Unit,,Description,FY 19,FY 20,FY 21,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),12/31/2019,12/31/2020,12/31/2021,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),02/18/2020,02/11/2021,02/23/2022,02/16/2023,02/15/2024
+,,Abstract bold color,Meliadine Mine, ,,,,
+,Thousand,Indent,Meliadine - Ore milled ('000 tonnes),"1,036.7","1,395.3","1,714.9","1,757.0","1,918.1"
+,Actual,Indent,Meliadine - Grade gold (g/tonne),7.60,7.35,7.37,6.83,6.11
+,Actual,Indent,Meliadine - Mill recoveries %,94.60%,96.80%,96.40%,96.60%,96.60%
+,Actual,Indent,Meliadine - Payable metal produced gold Oz,"238,394","318,889","391,687","372,874","364,141"
+,Actual,Indent,Meliadine - Payable metal sold gold oz,"213,290","322,923","378,048","377,711","358,485"
+$,Thousand,Indent+Bold, Revenue from Meliadine mine,"270,258","569,063","636,085","677,713","697,431"
+,,Abstract bold color, Costs for Meliadine, ,,,,
+$,Thousand,Indent,Meliadine - Production costs,"142,932","245,700","236,763","318,141","343,650"
+$,Thousand,,Cash Operating Profit,"127,326","323,363","399,322","359,572","353,781"
+$,Thousand,Indent,Meliadine - Amortization,"48,901","108,958","110,819","155,482","182,530"
+$,Thousand,,Operating profit post amortization,"78,425","214,405","288,503","204,090","171,251"
+,,Abstract Bold,Meliadine - Cost Reconciliation:, ,,,,
+$,Thousand,,Meliadine - Production costs,"142,932","245,700","236,763","318,141","343,650"
+$,Thousand,Indent,Meliadine - By-product metal revenues,-286,-527,-808,-753,-630
+$,Thousand,Indent,Meliadine - Inventory and other adjustments,389,"-3,353","-2,736","4,466","13,708"
+$,Thousand,Indent,Meliadine - Cash operating costs,"143,035","241,820","233,219","321,854","356,728"
+$,Actual,Indent+Bold,  Meliadine - Total cash costs ( Per ounce of commercial production),748,774,634,863,980
+C$,Thousand,Indent,Meliadine - Minesite operating costs (C$),"190,089","323,578","309,798","410,381","478,240"
+C$,Actual,Indent,Meliadine - Minesite costs per tonne (C$),246,240,206,234,249
+,,Abstract bold color Indent,Capital Expenditures, ,,,,
+$,Thousand,,Total Capital Expenditures,"122,491","129,632","125,714","155,894","174,900"
+$,Thousand,,Total Sustaining Capital Expenditures,"30,937","41,492","50,341","62,086","67,947"
+,,Abstract bold color Indent,Supplementary Data,,,,,
+$,Thousand,,Capital Expenditures,"119,278","124,256","117,826","149,344","174,900"
+$,Thousand,,Capitalized Exploration,"3,213","5,377","7,888","6,550","19,255"
+$,Thousand,,Other Income Statement Line Items,,,,,
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,
+,Actual,,Labour,30%,27%,27%,27%,26%
+,Actual,, Contractors,22%,24%,24%,23%,22%
+,Actual,,Energy,2%,2%,2%,10%,12%
+,Actual,,Chemical,4%,3%,3%,2%,2%
+,Actual,,Consumables/Other,42%,44%,44%,38%,38%
+,Actual,Bold,Total,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,"1,678,304","1,942,245","1,855,566","1,861,551","1,853,741"
+$,Actual,,Total Cash Costs (US$/oz),748,774,634,863,980
+,,,,,,,,
+,,,,,,,,

@@ -1,0 +1,45 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Meadowbank Mine,,
+,Thousand,Indent,Meadowbank - Ore milled ('000 tonnes),"3,842.6","1,083.5"
+,Actual,Indent,Meadowbank - Grade gold (g/tonne),3.86,4.19
+,Actual,Indent,Meadowbank - Mill recovery Gold (%),90.6%,91.5%
+,Actual,Indent,Meadowbank - Payable metals Produced Gold Oz,"431,666","133,502"
+,Thousand,Indent,Meadowbank - Payable metals Produced Silver 000's Oz,125,34
+,Actual,Indent,Meadowbank - Payable metals Sold Gold Oz,"439,415","126,010"
+,Thousand,Indent,Meadowbank - Payable metals Sold Silver 000's Oz,125,31
+$,Thousand,Indent Bold,Revenue from Meadowbank Mine,"858,209","315,047"
+,,Abstract bold color,Costs for Meadowbank,,
+$,Thousand,Indent, Meadowbank - Production costs,"524,008","115,705"
+$,Thousand,Indent,Cash Operating Profit,"334,201","199,342"
+$,Thousand,Indent,Amortization for Meadowbank,"192,509","38,319"
+$,Thousand,Indent,Operating profit post amortization,"141,692","161,023"
+,,Abstract Bold,Meadowbank - Cost Reconciliation,,
+$,Thousand,Indent,Meadowbank - Production costs,"524,008","115,705"
+$,Thousand,Indent,Meadowbank - By-product metal revenues,"-2,958",-978
+$,Thousand,Indent,Meadowbank - Inventory and other adjustments,"-13,245","6,797"
+$,Thousand,Indent,Meadowbank - Non-cash reclamation provision,,
+$,Actual,Indent,     Meadowbank - Stripping costs,,
+C$,Thousand,Indent,Meadowbank - Cash operating costs,"507,805","121,524"
+C$,Actual,Bold Indent,  Meadowbank - Total cash costs ( Per ounce of commercial production),"1,176",910
+,,Indent,Meadowbank - Minesite operating costs (C$),"686,945","165,483"
+$,Thousand,Indent,Meadowbank - Minesite costs per tonne (C$),179.0,153.0
+$,Thousand,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"121,733","30,223"
+$,Thousand,,Total Sustaining Capital Expenditures,"121,653","30,216"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"121,733","30,223"
+$,Thousand,,Capitalized Exploration, -   , -   
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,23%,21%
+,Actual,, Contractors,19%,19%
+,Actual,,Energy,16%,14%
+,Actual,,Chemical,3%,3%
+,Actual,,Consumables/Other,39%,43%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"824,831",
+$,Actual,,Total Cash Costs (US$/oz),"1,176",910
+,,,,,
+,,,,,
+,,,,,

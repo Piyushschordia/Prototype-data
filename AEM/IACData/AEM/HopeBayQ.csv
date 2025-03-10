@@ -1,0 +1,35 @@
+Currency,Unit,,Description,Q1 21,Q2 21,Q3 21,Q4 21,Q1 22,Q2 22,Q3 22,Q4 22,Q1 23,Q2 23,Q3 23,Q4 23,Q1 24,Q2 24,Q3 24
+,,,Period Ended On (MM/DD/YYYY),03/31/2021,06/30/2021,09/30/2021,12/31/2021,03/31/2022,06/30/2022,09/30/2022,12/31/2022,03/31/2023,06/30/2023,09/30/2023,12/31/2023,03/31/2024,06/30/2024,09/30/2024
+,,,Reported Date (MM/DD/YYYY),04/29/2021,07/28/2021,10/28/2021,02/23/2022,04/28/2022,07/27/2022,10/26/2022,02/16/2023,04/27/2023,07/26/2023,10/25/2023,02/15/2024,04/25/2024,07/31/2024,10/30/2024
+,,Abstract bold color,Hope Bay Mine, ,,,,,,,,,,,,,,
+,Thousand,Indent,Hope Bay - Ore milled ('000 tonnes),39.1,95.2,86.4,7.0,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+,Actual,Indent,Hope Bay - Grade gold (g/tonne),10.77,8.92,7.20,3.60,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+,Actual,Indent,Hope Bay - Mill recoveries %,90.60%,92.70%,89.80%,86.30%,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+,Actual,Indent,Hope Bay - Payable metal produced gold Oz,"12,259","25,308","17,957",705,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+,Actual,Indent,Hope Bay - Payable metal sold gold oz,"20,221","17,731","19,230","8,019",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,Indent+Bold,Revenue from Hope Bay mine,"35,305","31,990","33,939","14,205",,, -   , -   , (0), -   , -   , -   , -   , -   , -   
+,,Abstract bold color,Costs for Hope Bay, ,,,,,,,,,,,,,,
+$,Thousand,Indent,Hope Bay - Production costs,"24,075","17,594","22,306","19,143",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,,Cash Operating Profit,"11,230","14,396","11,633","-4,938",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,Indent,Hope Bay - Amortization,"6,424","2,019","4,328",772,,,"1,184","1,185","2,003","1,383","1,914", -   , (326), (317), (170)
+$,Thousand,,Operating profit post amortization,"4,806","12,377","7,305","-5,710", -   , -   ,"-1,184","-1,185","-2,003","-1,383","-1,914", -   ,326,317,170
+,,Abstract Bold,Hope Bay - Cost Reconciliation:, ,,,,,,,,,,,,,,
+$,Thousand,,Hope Bay - Production costs,"24,075","17,594","22,306","19,143",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,Indent,Hope Bay - By-product metal revenues, -   , -   , -   ,-46,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,Indent,Hope Bay - Inventory and other adjustments,"-12,691","5,555","1,641","-17,808",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,Indent,Hope Bay - Non-cash reclamation provision, ,,,,,,,,,,,,,,
+$,Thousand,Indent,Hope Bay - Cash operating costs,"11,384","23,149","23,947","1,289", -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   
+$,Actual,Indent+Bold,Hope Bay - Total cash costs ( Per ounce of commercial production),929,915,"1,333","1,829",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+C$,Thousand,Indent,Hope Bay - Minesite operating costs (C$),"14,171","28,447","30,028","1,540",,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+C$,Actual,Indent,Hope Bay - Minesite costs per tonne (C$),363,299,347,220,,, -   , -   , -   , -   , -   , -   , -   , -   , -   
+,,Abstract bold color Indent,Capital Expenditures, ,,,,,,,,,,,,,,
+$,Thousand,,Total Capital Expenditures,"8,167","10,992","23,052","9,831",,,"7,167","4,049",477,"2,869","1,099",128,"1,548","5,588","14,980"
+$,Thousand,,Total Sustaining Capital Expenditures,"6,733","9,664","18,316","9,447",,, -   ,15,2,145,0, -   , -   , -   , -   
+,,Abstract bold color Indent,Supplementary Data, ,,,,,,,,,,,,,,
+$,Thousand,,Capital Expenditures,"6,216","8,930","21,101","9,831",,"5,282","7,457","4,049",477,"2,869","1,099",128, -   , -   , -   
+$,Thousand,,Capitalized Exploration,"1,951","2,062","1,951",,,290, (290), -   , -   , -   , -   , -   , -   , -   , -   
+$,Thousand,,Depreciable Assets, ,,,,,,,,,,,,,,
+$,Actual,,Total Cash Costs (US$/oz),929,915,"1,333","1,829", -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   
+,,,, ,,,,,,,,,,,,,,
+,,,, ,,,,,,,,,,,,,,
+,,,, ,,,,,,,,,,,,,,

@@ -1,0 +1,35 @@
+Currency,Unit,,Description,FY 21,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),12/31/2021,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),02/23/2022,02/16/2023,02/15/2024
+,,Abstract bold color,Hope Bay Mine, ,,
+,Thousand,Indent,Hope Bay - Ore milled ('000 tonnes),227.7, -   , -   
+,Actual,Indent,Hope Bay - Grade gold (g/tonne),8.42, -   , -   
+,Actual,Indent,Hope Bay - Mill recoveries %,91.20%, -   , -   
+,Actual,Indent,Hope Bay - Payable metal produced gold Oz,"56,229", -   , -   
+,Actual,Indent,Hope Bay - Payable metal sold gold oz,"65,201", -   , -   
+$,Thousand,Indent+Bold,Revenue from Hope Bay mine,"115,439",144, -   
+,,Abstract bold color,Costs for Hope Bay, ,,
+$,Thousand,Indent,Hope Bay - Production costs,"83,118", -   , -   
+$,Thousand,,Cash Operating Profit,"32,321",144, -   
+$,Thousand,Indent,Hope Bay - Amortization,"11,238","4,089", -   
+$,Thousand,,Operating profit post amortization,"21,083","-3,945", -   
+,,Abstract Bold,Hope Bay - Cost Reconciliation:, ,,
+$,Thousand,,Hope Bay - Production costs,"83,118", -   , -   
+$,Thousand,Indent,Hope Bay - By-product metal revenues,-46, -   , -   
+$,Thousand,Indent,Hope Bay - Inventory and other adjustments,"-23,303", -   , -   
+$,Thousand,Indent,Hope Bay - Non-cash reclamation provision,,,
+$,Thousand,Indent,Hope Bay - Cash operating costs,"59,769", -   , -   
+$,Actual,Indent+Bold,Hope Bay - Total cash costs ( Per ounce of commercial production),"1,063", -   , -   
+C$,Thousand,Indent,Hope Bay - Minesite operating costs (C$),"74,186", -   , -   
+C$,Actual,Indent,Hope Bay - Minesite costs per tonne (C$),326, -   , -   
+,,Abstract bold color Indent,Capital Expenditures, ,,
+$,Thousand,,Total Capital Expenditures,"52,042","16,788","4,573"
+$,Thousand,,Total Sustaining Capital Expenditures,"44,160","3,619",147
+,,Abstract bold color Indent,Supplementary Data,,,
+$,Thousand,,Capital Expenditures,"46,078","16,788","4,426"
+$,Thousand,,Capitalized Exploration,"5,964", -   , -   
+$,Thousand,,Depreciable Assets,"157,908","168,547","183,754"
+$,Actual,,Total Cash Costs (US$/oz),"1,063", -   , -   
+,,,,,,
+,,,,,,
+,,,,,,

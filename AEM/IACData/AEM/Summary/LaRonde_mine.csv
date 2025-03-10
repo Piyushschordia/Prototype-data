@@ -1,0 +1,68 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,"LaRonde Mine, Quebec",,
+,Thousand,Indent,LaRonde - Ore milled ('000 tonnes),"1,501.5",354.8
+,,Abstract Indent Bold,LaRonde - Grade,,
+,Actual,Indent,LaRonde - Grade gold (g/tonne),5.23,4.45
+,Actual,Indent,LaRonde - Grade silver (g/tonne),16.15,13.70
+,Actual,Indent,LaRonde - Zinc %,0.44%,0.25%
+,Actual,Indent,LaRonde - Copper %,0.13%,0.09%
+,,Abstract Indent Bold,LaRonde - Mill Recoveries,,
+,Actual,Indent,LaRonde - Mill Recoveries Gold %,93.50%,93.20%
+,Actual,Indent,LaRonde - Mill Recoveries Silver %,85.70%,78.30%
+,Actual,Indent,LaRonde - Mill Recoveries Zinc %,76.80%,62.50%
+,Actual,Indent,LaRonde - Mill Recoveries Copper %,80.80%,80.50%
+,,Abstract Indent Bold,LaRonde - Payable metals Produced,,
+,Actual,Indent,LaRonde - Payable metals Produced Gold Oz,"235,991","47,313"
+,Thousand,Indent,LaRonde - Payable metals Produced Silver Oz ('000),575,111
+,Actual,Indent,LaRonde - Payable metals Produced Zinc (tonnes),"7,702",914
+,Actual,Indent,LaRonde - Payable metals Produced Copper (tonnes),"2,578",468
+,,Abstract Indent Bold,LaRonde - Payable metals Sold,,
+,Actual,Indent,LaRonde - Payable metals Sold Gold Oz,"226,538","58,357"
+,Thousand,Indent,LaRonde - Payable metals Sold Silver Oz ('000),574,104
+,Actual,Indent,LaRonde - Payable metals Sold Zinc (tonnes),"8,544","1,748"
+,Actual,Indent,LaRonde - Payable metals Sold copper (tonnes),"2,591",480
+$,Thousand,Indent Bold,Revenue from La Ronde Mine,"483,065","159,294"
+,,Abstract bold color,Costs for LaRonde Mine,,
+$,Thousand,Indent,LaRonde - Production costs,"218,020","74,244"
+$,Thousand,,Cash Operating Profit,"265,045","85,050"
+$,Thousand,Indent,Amortization for Laronde,"101,016","29,370"
+$,Thousand,,Operating profit post amortization,"164,029","55,680"
+,,Abstract Bold,LaRonde - Costs Reconciliation:,,
+$,Thousand,Indent,LaRonde - Production costs,"218,020","74,244"
+$,Thousand,Indent,LaRonde - By-product metal revenues,"-53,694","-10,097"
+$,Thousand,Indent,LaRonde - Inventory and other adjustments,"33,892","-13,164"
+$,Thousand,Indent,LaRonde - Non-cash reclamation provision,,
+$,Thousand,Indent,LaRonde - Cash operating costs,"198,218","50,983"
+$,Actual,Indent Bold,LaRonde - Total cash costs ( Per ounce of commercial production),840,"1,078"
+C$,Thousand,Indent,LaRonde - Minesite operating costs (C$),"301,138","78,002"
+C$,Actual,Indent,LaRonde - Minesite costs per tonne (C$),201.0,220.0
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"116,655","26,452"
+$,Thousand,,Total Sustaining Capital Expenditures,"71,793","14,706"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"116,655","26,303"
+$,Thousand,,Capitalized Exploration,"1,035",149
+$,Thousand,,Other Income Statement Line Items,,
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,37%,36%
+,Actual,,Contractors,11%,14%
+,Actual,,Energy,6%,5%
+,Actual,,Chemical,7%,7%
+,Actual,,Consumables/Other,39%,38%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"882,479",
+$,Actual,,Total Cash Costs (US$/oz),840,"1,078"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

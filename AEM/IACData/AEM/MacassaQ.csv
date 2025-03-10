@@ -1,0 +1,39 @@
+Currency,Unit,,Description,Q1 22,Q2 22,Q3 22,Q4 22,Q1 23,Q2 23,Q3 23,Q4 23,Q1 24,Q2 24,Q3 24
+,,,Period Ended On (MM/DD/YYYY),03/31/2022,06/30/2022,09/30/2022,12/31/2022,03/31/2023,06/30/2023,09/30/2023,12/31/2023,03/31/2024,06/30/2024,09/30/2024
+,,,Reported Date (MM/DD/YYYY),04/28/2022,07/27/2022,10/26/2022,02/16/2023,04/27/2023,07/26/2023,10/25/2023,02/15/2024,04/25/2024,07/31/2024,10/30/2024
+,,Abstract bold color,Macassa Mine, ,,,,,,,,,,
+,Thousand,Indent,Macassa - Ore Milled (000's tonnes),46.9,88.2,75.0,70.0,87.3,112.2,111.6,130.5,134.0,152.0,134.0
+,Actual,Indent,Macassa - Grade gold (g/tonne),16.64,22.00,21.89,19.58,23.32,16.16,13.35,14.82,16.27,13.44,16.84
+,Actual,Indent,Macassa - Mill Recovery %,97.6%,98.1%,98.2%,98.4%,98.0%,97.8%,97.7%,97.5%,97.4%,97.5%,97.5%
+,Actual,Indent,Macassa - Payable metal produced gold Oz,"24,488","61,262","51,775","43,308","64,115","57,044","46,792","60,584","68,259","64,062","70,727"
+,Actual,Indent,Macassa - Payable metal sold gold Oz,"29,530","58,050","50,739","43,197","62,928","57,102","44,400","58,100","67,500","65,340","65,000"
+$,Thousand,Indent+Bold,Revenue from Macassa mine,"56,469","107,779","87,827","74,953","117,859","112,879","85,407","115,682","139,393","153,476","162,334"
+,,Abstract bold color,Costs for Macassa, ,,,,,,,,,,
+$,Thousand,Indent,Macassa - Production costs,"32,314","33,001","33,533","30,926","37,959","38,545","35,864","42,678","47,648","51,029","48,086"
+$,Thousand,,Cash operating profit,"24,155","74,778","54,294","44,027","79,900","74,334","49,543","73,004","91,745","102,447","114,248"
+$,Thousand,Indent,Macassa - Amortization,"11,597","23,130","24,528","24,525","23,064","42,767","43,728","46,385","44,861","40,366","40,079"
+$,Thousand,Bold,Operating profit post amortization,"12,558","51,648","29,766","19,502","56,836","31,567","5,815","26,619","46,884","62,081","74,169"
+,,,, ,,,,,,,,,,
+,,Abstract Bold,Macassa - Cost Reconciliation, ,,,,,,,,,,
+$,Thousand,Indent,Macassa - Production costs,"32,314","33,001","33,533","30,926","37,959","38,545","35,864","42,678","47,648","51,029","48,086"
+$,Thousand,Indent,Macassa - By-product metal revenues, (73), (114), (89), (22), (208), (168), (107), (166), (220), -   , (442)
+$,Thousand,Indent,Macassa - Inventory and other adjustments," (12,971)","2,786","2,233","1,901",986,"4,247","3,580","3,737","1,091","2,347","5,435"
+$,Thousand,Indent,Macassa - Cash operating costs,"19,270","35,673","35,677","32,805","38,737","42,624","39,337","46,249","48,519","53,376","53,079"
+$,Actual,Indent+Bold,Macassa - Total cash costs ( Per ounce of commercial production),787,582,689,758,604,747,841,763,711,833,750
+C$,Thousand,Indent,Macassa - Minesite operating costs (C$),"24,540","45,664","46,798","44,221","51,041","56,410","53,096","61,734","66,071","72,370","72,245"
+C$,Thousand,Indent,Macassa - Minesite costs per tonne (C$),523,519,629,632,585,503,476,473,493,476,539
+,,Abstract bold color Indent,Capital Expenditures, ,,,,,,,,,,
+$,Thousand,,Total Capital Expenditures,"21,713","35,252","27,952","37,556","35,061","32,556","36,633","36,656","30,995","38,164","47,722"
+$,Thousand,,Total Sustaining Capital Expenditures,"4,657","8,867","7,216","9,558","6,648","8,896","13,597","15,334","10,531","6,466","12,651"
+,,Abstract bold color Indent,Supplementary Data,,,,,,,,,,,
+$,Thousand,,Capital Expenditures,"18,795","30,947","21,785","28,334","27,440","24,755","29,607","36,656","22,277","28,370","39,750"
+$,Thousand,,Capitalized Exploration,"2,918","4,305","6,167","9,222","7,621","7,802","7,026","5,352","8,718","9,794","7,972"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,,,,,,,
+,Actual,,Labour,54%,46%,42%,42%,42%,45%,43%,43%,44%,48%,47%
+,Actual,, Contractors,7%,10%,9%,12%,10%,13%,13%,12%,13%,12%,13%
+,Actual,,Energy,7%,6%,7%,6%,6%,6%,6%,5%,5%,4%,6%
+,Actual,,Chemical,0%,1%,1%,1%,2%,3%,2%,2%,2%,2%,2%
+,Actual,,Consumables/Other,32%,37%,41%,39%,40%,33%,36%,38%,36%,34%,32%
+,Actual,Bold,Total,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,,,,,,,,,,,
+$,Actual,,Total Cash Costs (US$/oz),787,582,689,758,604,747,841,763,711,833,750

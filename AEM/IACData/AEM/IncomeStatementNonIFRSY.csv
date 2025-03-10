@@ -1,0 +1,53 @@
+Currency,Unit,,Description,FY 05,FY 06,FY 07,FY 08,FY 09,FY 10,FY 11,FY 12,FY 13
+,,,Period Ended On (MM/DD/YYYY),12/31/2005,12/31/2006,12/31/2007,12/31/2008,12/31/2009,12/31/2010,12/31/2011,12/31/2012,12/31/2013
+,,,Reported Date (MM/DD/YYYY),02/13/2006,02/13/2007,02/13/2008,02/13/2009,02/13/2010,02/13/2011,02/13/2012,02/13/2013,02/13/2014
+,,Abstract Bold,Revenues, ,,,,,,,,
+$,Thousand,Indent,Revenues from mining operations,"241,338","464,632","432,205","368,938","613,762","1,422,521","1,821,799","1,917,714","1,638,406"
+$,Thousand,Indent,Production cost,"127,365","143,753","166,104","186,862","306,318","677,472","876,078","897,712","924,927"
+$,Thousand,,"Gross profit
+","113,973","320,879","266,101","182,076","307,444","745,049","945,721","1,020,002","713,479"
+,,Abstract Bold,Expenses, ,,,,,,,,
+$,Thousand,Indent,Exploration and corporate development,"16,581","30,414","25,507","34,704","36,279","54,958","75,721","109,500","44,236"
+$,Thousand,Indent,Equity loss in junior exploration companies,"2,899",663,,,,,,,
+$,Thousand,Indent,Environmental remediation, ,,,,,,,,
+$,Thousand,Indent,"Amortization of property, plant and mine development","26,062","25,255","27,757","36,133","72,461","192,486","261,781","271,861","296,078"
+$,Thousand,Indent,General and administrative,"11,727","25,884","38,167","47,187","63,687","94,327","107,926","119,085","115,800"
+$,Thousand,Indent,Impairment loss on available-for-sale securities, ,,,"74,812",,,"8,569","12,732","34,272"
+$,Thousand,Indent,Provincial capital tax,"1,352","3,758","3,202","5,332","5,014","-6,075","9,223","4,001","-1,504"
+$,Thousand,Indent,Interest,"7,813","2,902","3,294","2,952","8,448","49,493","55,039","57,887","57,999"
+$,Thousand,Indent,Interest and sundry expenses (income),"-4,535","-21,797","-25,142","-7,240","-12,580","-10,254","5,188","2,389","8,824"
+$,Thousand,Indent,Foreign currency translation loss (gain),"1,860","2,127","32,297","-77,688","39,831","19,536","-1,082","16,320","-7,188"
+$,Thousand,Indent,Gain on sale of available-for-sale securities,-461,"-24,118","-4,088","-25,626","-10,142","-19,487","-4,907","-9,733",-74
+$,Thousand,Indent,Loss (Gain) on derivative financial instruments,"15,396","15,148","5,829","-4,481","-3,592","-7,612","-3,683",819,"-1,509"
+$,Thousand,Indent,"Gain on acquisition of Compalex, net of transaction costs", ,,,,,"-57,526",,,
+$,Thousand,Indent,Impairment loss, ,,,,,,"907,681",,"537,227"
+$,Thousand,Indent,Loss on Goldex mine, ,,,,,,"302,893",,
+$,Thousand,Indent,Other, ,,,,,,,,
+$,Thousand,,"Income before income, mining and federal capital taxes","35,279","260,643","159,278","95,991","108,038","435,203","-778,628","435,141","-370,682"
+$,Thousand,Indent,Income and mining tax expense (recoveries),"-2,777","99,306","19,933","22,824","21,500","103,087","-209,673","124,225","35,844"
+$,Thousand,Indent,Federal capital tax,"1,062",,,,,,,,
+$,Thousand,Indent,Loss on equity investment, ,,,,,,,,
+$,Thousand,Indent,Attributed to non-controlling interest, ,,,,,,,,
+$,Thousand,,Net income for the period,"36,994","161,337","139,345","73,167","86,538","332,116","-568,955","310,916","-406,526"
+,,,, ,,,,,,,,
+,,,Net income (loss) per share, ,,,,,,,,
+$,Actual,,Basic earnings (loss) per share,0.42,1.40,1.05,0.51,0.55,2.05,-3.36,1.82,-2.35
+$,Actual,,Diluted earnings (loss) per share,0.42,1.35,1.04,0.50,0.55,2.00,-3.36,1.81,-2.35
+,,Abstract Bold,Weighted average shares outstanding, ,,,,,,,,
+,Actual,,Basic Weighted average shares outstanding,"89,029,754","115,461,046","132,768,049","144,740,658","155,942,151","162,342,686","169,352,896","171,250,179","172,892,654"
+,Actual,,Diluted Weighted average shares outstanding,"89,512,799","119,110,295","133,957,869","145,888,728","158,620,888","165,842,259","169,352,896","171,485,615","172,892,654"
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,
+,,,, ,,,,,,,,

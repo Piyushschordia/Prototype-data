@@ -1,0 +1,54 @@
+Currency,Unit,,Description,FY 05,FY 06,FY 07,FY 08,FY 09,FY 10,FY 11,FY 12,FY 13
+,,,Period Ended On (MM/DD/YYYY),12/31/2005,12/31/2006,12/31/2007,12/31/2008,12/31/2009,12/31/2010,12/31/2011,12/31/2012,12/31/2013
+,,,Reported Date (MM/DD/YYYY),04/30/2020,02/13/2007,02/13/2008,02/13/2009,02/13/2010,02/13/2011,04/30/2020,02/13/2013,02/13/2014
+,,Abstract Bold,Assets:, ,,,,,,,,
+,,Abstract Bold,Current assets, ,,,,,,,,
+$,Thousand,Indent,Cash and cash equivalents,"61,155","288,575","314,794","68,382","160,280","95,560","179,447","298,068","139,101"
+$,Thousand,Indent,Restricted cash, ,,"2,455","30,999",,"2,510","35,441","25,450","28,723"
+$,Thousand,Indent,Short-term investments,"59,827","170,042","78,770",,"3,313","6,575","6,570","8,490","2,217"
+$,Thousand,Indent,Trade receivables,"56,304","84,987","79,419","45,640","93,571","112,949","75,899","67,750","67,300"
+$,Thousand,Indent,Income taxes recoverable,"7,723",,,,,,,,
+,,Abstract Bold+Indent,Inventories:, ,,,,,,,,
+$,Thousand,Indent,Ore stockpiles,"12,831","2,330","5,647","24,869","41,286","67,764","28,155","52,342","39,941"
+$,Thousand,Indent,Concentrates,920,"3,794","1,913","5,013","31,579","50,332","57,528","69,695","58,543"
+$,Thousand,Indent,Supplies,"10,092","11,152","15,637","40,014","100,885","149,647","182,389","222,630","253,160"
+$,Thousand,Indent,Available-for-sale securities, ,"38,760","38,006","70,383","111,967","99,109","145,411","44,719","74,581"
+$,Thousand,Indent,Fair value of derivative financial instruments, ,,,,,,,"2,112","5,590"
+$,Thousand,Indent,Other taxes recoverable, ,,,,,,371,"19,313","18,682"
+$,Thousand,Indent,Other current assets,"34,483","23,193","53,119","65,994","61,159","89,776","110,369","92,977","116,993"
+$,Thousand,Bold,Total current assets,"243,335","622,833","589,760","351,294","604,040","674,222","821,580","903,546","804,831"
+,,Abstract Bold,Non-current assets, ,,,,,,,,
+$,Thousand,Indent,Restricted cash, ,,,,,,,,
+$,Thousand,Indent,Other assets,"7,995","7,737","16,436","8,383","33,641","61,502","88,048","55,838","66,394"
+$,Thousand,Indent,Goodwill, ,,,,,"200,064","229,279","229,279","39,017"
+$,Thousand,Indent,Future income and mining tax assets,"63,543","31,059","5,905","21,647","27,878",,,,
+$,Thousand,Indent,"Property, plant and mine development, net","661,196","859,859","2,123,397","2,997,500","3,581,798","4,564,563","3,895,355","4,067,456","4,049,117"
+$,Thousand,Bold,Total non-current assets,"732,734","898,655","2,145,738","3,027,530","3,643,317","4,826,129","4,212,682","4,352,573","4,154,528"
+$,Thousand,Bold,Total  assets,"976,069","1,521,488","2,735,498","3,378,824","4,247,357","5,500,351","5,034,262","5,256,119","4,959,359"
+,,Abstract Bold,Liabilities:, ,,,,,,,,
+,,Abstract Bold,Current  liabilities:, ,,,,,,,,
+$,Thousand,Indent,Accounts payable and accrued liabilities,"37,793","42,538","108,227","139,795","155,432","160,375","203,547","185,329","173,374"
+$,Thousand,Indent,Environmental remediation liability, ,,,,,,"26,069","16,816","3,452"
+$,Thousand,Indent,Dividends payable,"3,809","15,166","26,280","28,304","28,199","108,009",,"37,905",
+$,Thousand,Indent,Interest payable,"2,243",,,146,"1,666","9,743","9,356","13,602","13,803"
+$,Thousand,Indent,Fair value of derivative financial instruments,"9,699",,,"12,823",662,142,"4,404",277,467
+$,Thousand,Indent,Income taxes payable, ,"14,231",,"4,814","4,501","14,450",,"10,061","7,523"
+$,Thousand,Indent,Capital lease obligations, ,,,,,"10,592","11,068","12,955","12,035"
+$,Thousand,Bold,Total  current liabilities:,"53,544","71,935","134,507","185,882","190,460","303,311","254,444","276,945","210,654"
+,,Abstract Bold,Non-current liabilities:, ,,,,,,,,
+$,Thousand,Indent,Long term debt,"131,056",,,"200,000","715,000","650,000","920,095","830,000","1,000,000"
+$,Thousand,Indent,Reclamation provision and other liabilities,"16,220","27,457","57,941","71,770","96,255","145,536","145,988","127,735","178,236"
+$,Thousand,Indent,Deferred income and mining tax liabilities,"120,182","169,691","484,116","403,416","493,881","736,054","498,572","611,227","593,320"
+$,Thousand,Indent,Other liabilities, ,,,,,,,,
+$,Thousand,Bold,Total non-current  liabilities,"267,458","197,148","542,057","675,186","1,305,136","1,531,590","1,564,655","1,568,962","1,771,556"
+$,Thousand,Bold,Total liabilities,"321,002","269,083","676,564","861,068","1,495,596","1,834,901","1,819,099","1,845,907","1,982,210"
+,,Abstract Bold,Shareholders' equity:, ,,,,,,,,
+$,Thousand,Indent,Common shares,"764,659","1,230,654","1,931,667","2,299,747","2,378,759","3,078,217","3,181,381","3,241,922","3,294,007"
+$,Thousand,Indent,Stock options,"2,869","5,884","23,573","41,052","65,771","78,554","117,694","148,032","174,470"
+$,Thousand,Indent,Warrants,"15,732","15,723",,"24,858","24,858","24,858","24,858","24,858",
+$,Thousand,Indent,Contributed surplus,"15,128","15,128","15,166","15,166","15,166","15,166","15,166","15,665","37,254"
+$,Thousand,Indent,Retained earnings (deficit),"-138,697","3,015","112,240","157,541","216,158","440,265","-129,021","7,046","-513,441"
+$,Thousand,Indent,Accumulated other comprehensive loss,"-4,624","-17,999","-23,712","-20,608","51,049","28,390","-7,106","-27,311","-15,141"
+$,Thousand,Bold,Total Shareholders' equity,"655,067","1,252,405","2,058,934","2,517,756","2,751,761","3,665,450","3,202,972","3,410,212","2,977,149"
+$,Thousand,Indent,Non-controlling interest, ,,,,,,"12,191",,
+$,Thousand,Bold,Total liabilities and shareholders' equity,"976,069","1,521,488","2,735,498","3,378,824","4,247,357","5,500,351","5,034,262","5,256,119","4,959,359"

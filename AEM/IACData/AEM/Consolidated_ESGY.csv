@@ -1,0 +1,1778 @@
+Currency,Unit,,Description,SASB Code,GRI Code,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),, ,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),,,04/27/2023,04/25/2024
+,,Abstract Bold Color,Environmental,, ,,
+,,Abstract Bold,Environmental Stewardship,, ,,
+,,Abstract Bold,"Operational Sites Owned, Leased, Managed in, or Adjacent to, Protected Areas and Areas of High Biodiversity Value Outside Protected Areas", EM-MM-160a.3,"304-1, 304-2",,
+,Actual,,Total area (ha) of leased/owned site,, ,"128,865","90,373"
+,Actual,,Site area (ha) physically disturbed by mine-related activity,, ,"11,167","11,203"
+,Actual,,Site area (ha) currently undisturbed,, ,"117,698","79,418"
+,,,,, ,,
+,,Abstract Bold,Habitats Protected or Restored,,304-3,,
+,Actual,,Total site area (ha) that will be rehabilitated at closure,, ,"10,515","10,887"
+,Actual,,Site area (ha) rehabilitated during the reporting year,, ,96,2
+,Actual,,Total size of land succesfully restored (ha),, ,96,0
+,Actual,,Size of protected land (ha),, ,508,508
+,,,,, ,,
+,,Abstract Bold,IUCN Red List Species and National Conservation List Species with Habitats in Areas Affected by Operations,EM-MM-160a.3,304-4,,
+,Actual,Bold,Total  IUCN red list species and national conservation list species,, ,"2,417","3,461"
+,Actual,,Critically endangered,, ,5,5
+,Actual,,Endangered,, ,18,22
+,Actual,,Vulnerable,, ,69,82
+,Actual,,Near threatened,, ,61,96
+,Actual,,Least concerned,, ,"1,794","2,775"
+,Actual,,Other,, ,470,481
+,,,,, ,,
+,,Abstract Bold,Cyanide Management, EM-MM-150a.9, ,,
+,Actual,Bold,Cyanide use (tonnes),, ,"22,677","23,639"
+,Actual,,Total significant cyanide incidents that require reporting under applicable regulations,, ,0,2
+,Actual,,Cyanide releases off the mine site requiring response or remediation,, ,0,0
+,Actual,,Cyanide releases on or off the mine site resulting in significant adverse effects to health ,, ,0,0
+,Actual,,Cyanide releases on or off the mine site resulting in significant adverse effects to the environment,, ,4,6
+,Actual,,Cyanide releases on or off the mine site requiring reporting under applicable regulations,, ,0,9
+,Actual,,Releases cause applicable limits for cyanide to be exceeded,, ,0,0
+,,,,, ,,
+,,Abstract Bold,Environmental Fines & Sanctions,"EM-MM-140a.2, EM-MM-150a.9",2-27,,
+,Actual,,Was the mine charged for non-compliance with environmental laws or regulations?,,,No,
+,Actual,Indent,Amount of fines for non-compliance with environmental laws and regulations,,,0,0
+,Actual,Indent,Currency of fines for non-compliance with environmental laws and regulations,,,N/A,0
+,Actual,,Were there actions against mine for non-compliance with envir. laws or regul.,,,Yes,
+,Actual,, of significant environmental incidents,,,0,0
+,Actual,Indent,   of significant spills ,,,0,0
+,,,,, ,,
+,,Abstract Bold,,, ,,
+,,Abstract Bold, Consumption within the Organization,EM-MM-130a.1 ,302-1,,
+,Actual,,Fuel consumption,, ,"12,816,566","15,976,439"
+,Actual,,Diesel (GJ) ,, ,"11,591,237","14,363,570"
+,Actual,,Biodiesel (GJ),, ,"39,528",0
+,Actual,,Light fuel & gasoline (GJ) ,, ,"114,726","218,866"
+,Actual,,LPG (GJ) ,, ,"15,858","9,783"
+,Actual,,Propane (GJ) ,, ,"247,255","238,243"
+,Actual,,Lubricating oils & greases (GJ),, ,"4,614","7,311"
+,Actual,,Natural gas (GJ) ,, ,"671,215","873,564"
+,Actual,,Explosives (GJ),, ,"132,133","265,102"
+,Actual,Bold,Total electricity consumption (kWh),, ,"2,492,791,096","3,224,395,129"
+,Actual,Bold,Total electricity consumption (GJ),, ,"8,974,048","11,607,822"
+,Actual,,Renewable electricity purchased from grid (kWh),, ,"1,096,951,789","1,791,883,399"
+,Actual,,Non-renewable electricity low carbon electricity purchased from grid (kWh),, ,"126,508,346","616,435,461"
+,Actual,,Non-renewable electricity other purchased from grid (kWh),, ,"935,219,784","475,647,571"
+,Actual,,Non-renewable electricity generated on-site (kWh),, ,"334,111,177","340,428,698"
+,Actual,Bold,% Low carbon electricity purchased,, ,49%,75%
+,Actual,,% Renewable electricy consumption,, ,44%,56%
+,Actual,,% Non-renewable low carbon electricity purchased,, ,5%,19%
+,Actual,Bold,Total  consumption (GJ),, ,"20,587,814","26,358,718"
+,,,,, ,,
+,,Abstract Bold, Intensity,,302-3,,
+,Actual,,Electricity intensity (per tonne of ore processed) (KWh/t),, ,54.0,50.3
+,Actual,, intensity (per tonne of ore processed) (GJ/t),, ,0.45,0.41
+,,,,, ,,
+,,Abstract Bold,Emissions,, ,,
+,,Abstract Bold,Greenhouse Gas (GHG) Emissions,EM-MM-110a.1,"305-1. 305-2, 305-4, 305-5, 305-6",,
+,Actual,,Direct GHG produced (scope 1 (tonnes CO2e)),, ,"907,744","1,150,541"
+,Actual,,Indirect GHG produced (scope 2 (tonnes CO2e)),, ,"266,968","186,416"
+,Actual,,Proportion of GHG emissions by operation,, ,100%,100%
+,Actual,,Total GHG Produced (Scope 1 and 2(tonnes CO2e)),, ,"1,174,712","1,336,957"
+,Actual,,GHG Intensity (Total tonnes CO2e/ Oz of Ore Processed),, ,0.03,0.02
+,Actual,,GHG Intensity (Total tonnes CO2e/ Oz of Gold Produced),, ,0.40,0.38
+,,,,, ,,
+,,Abstract Bold,Scope 3 Estimate GHG Emissions,,305-3,,
+,,Abstract Bold,Upstream,, ,,
+,Actual,,Category 1 - Purchased Goods & Services  (tonnes CO2e),, ,"1,482,690","1,352,316"
+,Actual,,Category 2 - Capital Goods  (tonnes CO2e),, ,"80,956","191,169"
+,Actual,,Category 3 - Fuel- and -related activities (tonnes CO2e),, ,"203,907","234,690"
+,Actual,,Category 4 - Upstream transportation & distribution (tonnes CO2e),, ,"119,440","92,212"
+,Actual,,Category 5 - Waste generated in operations (tonnes CO2e),, ,"18,527","16,775"
+,Actual,,Category 6 - Business travel (tonnes CO2e),, ,"22,350","20,835"
+,Actual,,Category 7 - Employee commuting (tonnes CO2e),, ,"118,473","86,682"
+,Actual,,Category 8 - Upstream leased assets (tonnes CO2e),, ,0,0
+,Actual,,Category 9 - Downstream transportation & distribution (tonnes CO2e),, ,0,0
+,,Abstract Bold,Downstream,, ,,
+,Actual,,Category 10 - Processing of sold products (tonnes CO2e),, ,316,397
+,Actual,,Category 11 - Use of sold products (tonnes CO2e),, ,"19,690","24,730"
+,Actual,,Category 12 - End-of-life treatment of sold products (tonnes CO2e),, ,316,397
+,Actual,,Category 13 - Downstream leased assets (tonnes CO2e),, ,0,0
+,Actual,,Category 14 - Franchises (tonnes CO2e),, ,0,0
+,Actual,,Category 15 - Investments (tonnes CO2e),, ,"105,692",346
+,Actual,Bold,Total Scope 3 (tonnes CO2e),, ,"2,172,357","2,020,549"
+,,,,, ,,
+,,Abstract Bold,Other Significant Air Emissions Dust Noise and Vibration,EM-MM-120a.1,305-7,,
+,Actual,,Sulfur oxides (Sox) (tonnes),, ,"1,428","1,721"
+,Actual,,Noxides (Nox) (tonnes),, ,"22,001","25,850"
+,,,,, ,,
+,,Abstract Bold,Water Management,, ,,
+,,Abstract Bold,Water Withdrawal (m³),EM-MM-140a.1,"303-3, 303-5",,
+,Actual,,Surface water ,, ,"38,043,436","39,497,602"
+,Actual,,"Open water bodies (High) for use
+",, ,"7,786,658","7,280,763"
+,Actual,,"Open water bodies (Low) for use
+",, ,0,0
+,Actual,,"Surface contact water from precipitation and runoff (High) managed
+",, ,"21,877,315","15,727,374"
+,Actual,,"Surface contact water from precipitation and runoff (Low) managed
+",, ,"6,534,276","13,072,186"
+,Actual,,"Water collected from rain and/or snow melt (High) for use
+",, ,"866,476","701,043"
+,Actual,,"Water collected from rain and/or snow melt (Low) for use
+",, ,"236,606",0
+,Actual,," Open water bodies (High) dewatered
+",, ,"11,014","889,784"
+,Actual,," Open water bodies (Low) dewatered
+",, ,"731,091","1,826,452"
+,Actual,,Groundwater,, ,"15,610,878","27,177,561"
+,Actual,,"Wells (High) for use
+",, ,"162,525","150,453"
+,Actual,,"Wells (Low) for use
+",, ,"273,630","178,308"
+,Actual,, Mine dewatering (High) managed,, ,"577,378","1,344,318"
+,Actual,, Mine dewatering (Low) managed,, ,"11,780,802","10,683,137"
+,Actual,, Mine dewatering (High) for use,, ,0,0
+,Actual,, Mine dewatering (Low) for use,, ,"2,816,543","14,821,345"
+,Actual,,Third-party water ,, ,"531,978","482,748"
+,Actual,,Municipal water system (High ) for use,, ,"531,978","482,748"
+,Actual,,Third-party water (Low) for use,, ,0,0
+,Actual,Bold,Total operational water withdrawal (m3),, ,"12,674,416","23,614,660"
+,Actual,Bold,Total freshwater withdrawal for use (m3),, ,"9,347,637","8,615,007"
+,Actual,Bold,Total low value water withdrawal for use (m3),, ,"3,326,779","14,999,653"
+,Actual,,Freshwater withdrawn for use from areas with high or extremely high baseline water stress (%),, ,12%,
+,Actual,,Percentage water withdrawn from areas with high or extremely high baseline water stress according to WDI (%),, ,16%,4%
+,Actual,,Water consumption from areas with high or extremely high baseline water stress (%),, ,27%,
+,,,,, ,,
+,,Abstract Bold,Water Withdrawal Intensity ,EM-MM-140a.1,303-3,,
+,Actual,,Freshwater withdrawn for use intensity (m3 of water per tonned of ore processed),, ,0.20,0.13
+,Actual,,Freshwater withdrawn for use intensity (m3 of water per gold oz),, ,3.17,2.45
+,,,,, ,,
+,,Abstract Bold,Water Used and Recycled (m³),EM-MM-140a.1 ,303-5,,
+,Actual,Bold,Total water comsumption,, ,"30,330,094","33,156,853"
+,Actual,,Total water used ,, ,"57,862,634","81,677,767"
+,Actual,,Water recycled ,, ,"45,188,218","58,063,107"
+,Actual,,Percent water recycled,, ,78%,71%
+,,,,, ,,
+,,Abstract Bold,Water Discharge (m³),EM-MM-140a.2,"303-4, 306-1,306-5",,
+,Actual,Bold,Water discharged,, ,"23,856,198","34,001,058"
+,Actual,Bold,Water discharged to fresh water bodies ,, ,"20,429,946","29,198,630"
+,Actual,,Untreated water discharged to fresh water bodies ,, ,"22,336","7,294,035"
+,Actual,,Primary treated  water discharged to fresh water bodies ,, ,"8,626,919","10,763,049"
+,Actual,,Secondary treated water discharged to fresh water bodies ,, ,"1,920,258","1,374,387"
+,Actual,,Tertiary treated water discharged to fresh water bodies ,, ,"9,860,433","9,767,159"
+,Actual,Bold,Discharged to sea/ocean,, ,"316,356","1,532,709"
+,Actual,,Untreated water discharged to sea/ocean,, ,0,0
+,Actual,,Primary treated water discharged to sea/ocean,, ,"233,144","1,164,724"
+,Actual,,Secondary treated water discharged to sea/ocean,, ,"83,212","367,985"
+,Actual,,Tertiary treated water discharged to sea/ocean,, ,0,0
+,Actual,Bold,Discharged underground,, ,0,"217,677"
+,Actual,,Untreated water discharged underground,, ,0,"217,677"
+,Actual,,Primary treated water discharged underground,, ,0,0
+,Actual,,Secondary treated water discharged underground,, ,0,0
+,Actual,,Tertiary treated water discharged underground,, ,0,0
+,Actual,Bold,Discharge to third party for reclamation,, ,"3,109,896","3,052,042"
+,Actual,,Untreated water discharged to third party for reclamation,, ,"3,109,896","3,052,042"
+,Actual,,Primary treated  water discharged to third party for reclamation,, ,0,0
+,Actual,,Secondary treated water discharged to third party for reclamation,, ,0,0
+,,,Water Treatment and Monitoring,, ,,
+,,,,, ,,
+,,Abstract Bold,Water Treatment and Monitoring,EM-MM-140a.1,"303-3, 303-5",,
+,,Abstract Bold,Water Discharge,, ,,
+,Actual,, of incidents of non-compliance with discharge limits,, ,0,6
+,,,,, ,,
+,,Abstract Bold,Tailings and Waste,, ,,
+,,Abstract Bold,"Materials, Tailings & Waste",EM-MM-000.A,301-1,,
+,,Abstract Bold,Production,, ,,
+,Actual,,Total ore processed (tonnes),, ,"46,164,794","64,048,754"
+,Actual,,Total gold (Oz),, ,"2,945,433","3,520,338"
+,Thousands,,Total silver (thousands of Oz),, ,"2,045","2,409,152"
+,Actual,,Mill zinc (t),, ,"8,195","2,617"
+,Actual,,Mill copper (t),, ,"2,901","7,702"
+,,,,, ,,
+,,Abstract Bold,Total Waste Generated (Mineral and Non-Mineral Waste),EM- MM-150a.7,306-2,,
+,Actual,,Total non-hazardous waste generated (tonnes),, ,"137,623,118","157,116,797"
+,Actual,,Total hazardous waste generated (tonnes),, ,"47,579,052","47,402,729"
+,Actual,Bold,Total waste generated (tonnes),, ,"185,202,170","204,519,527"
+,Actual,,Total waste recycled (tonnes),, ,"37,293,239","31,970,431"
+,Actual,,Percentage (%) waste recycled (tonnes),, ,20%,16%
+,,,,, ,,
+,,Abstract Bold,Mined Material ," EM-MM-150a.5, EM-MM-150.6,  EM-MM-150a.8",306-2,,
+,Actual,,Total waste rock mined (tonnes),, ,"143,990,445","143,564,421"
+,Actual,,Total potentially hazardous waste rock mined (tonnes),, ,"38,885,544","38,805,281"
+,Actual,,Potentially hazardous waste rock returned underground as backfill or in pits (tonnes),, ,"4,010,570","3,695,423"
+,Actual,,Potentially hazardous waste rock used in tailings dam construction (tonnes),, ,"286,632","203,053"
+,Actual,,Potentially hazardous  waste rock used in other construction (tonnes),, ,"786,277","1,161,865"
+,Actual,,Potentially hazardous  waste rock remaining on surface or removed from waste rock piles (tonnes),, ,"33,802,065","33,744,940"
+,Actual,,Total non-hazardous waste rock mined (tonnes),, ,"105,104,901","104,759,140"
+,Actual,,Non-hazardous waste rock returned underground as backfill or in pits (tonnes),, ,"2,151,553","1,338,601"
+,Actual,,Non-hazardous waste rock used in tailings dam construction (tonnes),, ,"18,857,306","18,003,462"
+,Actual,,Non-hazardous waste rock used in other construction (tonnes),, ,"7,220,295","3,520,641"
+,Actual,,Non-hazardous waste rock placed on surface or removed from waste rock piles  (tonnes),, ,"76,875,747","81,896,436"
+,Actual,,Percentage (%) waste rock recycled,, ,23%,19%
+,Actual,Bold,Total mill tailings produced (tonnes),, ,"41,122,884","60,933,565"
+,Actual,,Total potentially hazardous mill tailings produced (tonnes),, ,"8,681,158","8,575,908"
+,Actual,,Potentially hazardous mill tailings returned underground as backfill (tonnes),, ,"1,429,257","1,469,851"
+,Actual,,Potentially hazardous mill tailings placed in surface tailings containment (tonnes),, ,"7,251,901","7,106,057"
+,Actual,,Total non-hazardous mill tailings produced (tonnes),, ,"32,441,726","52,357,657"
+,Actual,,Non-hazardous mill tailings returned underground as backfill (tonnes),, ,"2,530,875","2,559,257"
+,Actual,,Non-hazardous mill tailings placed in surface tailings containment (tonnes),, ,"29,910,851","49,798,400"
+,Actual,,Percentage (%) mill tailings recycled,, ,10%,7%
+,Actual,Bold,Total mined material,, ,"185,113,329","204,497,986"
+,Actual,Bold,Total hazardous mined material,, ,"47,566,702","47,381,189"
+,Actual,Bold,Total non-hazardous mine material,, ,"137,546,627","157,116,797"
+,,,,, ,,
+,,Abstract Bold,Domestic Waste & Non-Mineral Hazardous Waste, EM-MM-150a.4,306-2,,
+,Actual,,Total non-hazardous domestic waste generated (tonnes),, ,"76,491","57,019"
+,Actual,,Domestic waste (garbage) sent to an on-site landfill (tonnes),, ,"47,321","29,816"
+,Actual,,Domestic waste (garbage) sent to an on-site incinerator (tonnes),, ,"1,066",975
+,Actual,,Domestic waste (garbage) sent to an off-site landfill (tonnes),, ,"7,446","7,766"
+,Actual,,Domestic waste (garbage) sent to an off-site incinerator (tonnes),, ,184,185
+,Actual,,Paper and cardboard sent to recycling (tonnes),, ,732,291
+,Actual,,Plastics sent to recycling (tonnes),, ,157,87
+,Actual,,Metals sent to recycling (tonnes),, ,"14,751","13,041"
+,Actual,,Wood sent to recycling (tonnes),, ,940,945
+,Actual,,Tires sent to recycling (tonnes),, ,"2,805","3,314"
+,Actual,,Other sent to recycling (tonnes),, ,"1,089",601
+,Actual,Bold,Total domestic waste recycled (tonnes),, ,"20,474","18,278"
+,Actual,Bold,Non-Hazardous \Domestic Waste Recycled (%),, ,27%,32%
+,Actual,Bold,Total hazardous non-mineral waste generated (tonnes),, ,"12,350","21,541"
+,Actual,, Used oil sent off site for treatment or used on-site as fuel (tonnes),, ,"2,215","2,954"
+,Actual,, Contaminated soil produced during the year (tonnes),, ,"3,908","14,964"
+,Actual,,Hazardous waste shipped to and off-site disposal facility (tonnes),, ,"6,227","3,622"
+,Actual,,Total non-mineral waste generated (tonnes),, ,"88,841","78,560"
+,,,,, ,,
+,,Abstract Bold,Transport of Hazardous Waste,,306-4,,
+,Actual,,Total weight of hazardous waste transported (tonnes),, ,"7,461","4,824"
+,Actual,,  Hazardous waste transported imported to the mine (tonnes),, ,0,0
+,Actual,, Hazardous waste transport exported from the mine (tonnes),, ,"7,461","4,824"
+,Actual,,Hazardous waste shipped internationally (%),, ,0%,0%
+,,,,, ,,
+,,Abstract Bold Color,Social,, ,,
+,,Abstract Bold,Health & Safety,, ,,
+,,Abstract Bold,Combined Health and Safety Performance,EM-MM-320a.1,403-09,,
+,,Abstract Bold,Exploration,, ,,
+,Actual,,Person-hours worked,, ,"2,217,325","1,486,578"
+,Actual,, of fatalities,, ,1,0
+,Actual,,Lost time accidents,, ,9,1
+,Actual,,Light duty incidents,, ,6,1
+,Actual,,Medical aid incident,, ,7,4
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.81,0.13
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,4.06,0.67
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,1.98,0.81
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,9.92,4.04
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Person-hours worked,, ,"1,054,995","1,200,884"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,0,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.00,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,0.00,0.00
+,,Abstract Bold,Northern Territory Operations,, ,,
+,Actual,,Person-hours worked,, ,"124,643","86,813"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,2,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,3.21,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,16.05,0.00
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Person-hours worked,, ,"31,020,141","34,624,762"
+,Actual,, of fatalities,, ,1,0
+,Actual,,Lost time accidents,, ,67,55
+,Actual,,Light duty incidents,, ,33,19
+,Actual,,Medical aid incident,, ,50,75
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.43,0.32
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,2.16,1.59
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.97,0.86
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,4.84,4.30
+,,,,, ,,
+,,Abstract Bold,Employee Health and Safety Performance,EM-MM-320a.1,403-09,,
+,,Abstract Bold,Exploration,, ,,
+,Actual,,Person-hours worked,, ,0,0
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,0,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time Injury Frequency per 200k Person-hours Worked,, ,0.00,0.00
+,Actual,,Lost-time Injury Frequency per 1M Person-hours Worked,, ,0.00,0.00
+,Actual,,Total Incidents Frequency per 200k Person-hours Worked Frequency,, ,0.00,0.00
+,Actual,,Total Incidents Frequency per 1M Person-hours Worked Frequency,, ,0.00,0.00
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Person-hours worked,, ,"1,054,995","1,200,884"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,0,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.00,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,0.00,0.00
+,,Abstract Bold,Northern Territory Operations,, ,,
+,Actual,,Person-hours worked,, ,"124,643","51,773"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,2,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,3.21,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,16.05,0.00
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Person-hours worked,, ,"18,063,420","20,103,413"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,27,25
+,Actual,,Light duty incidents,, ,16,7
+,Actual,,Medical aid incident,, ,24,30
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.30,0.25
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,1.49,1.24
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.74,0.62
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,3.71,3.08
+,,,,, ,,
+,,Abstract Bold,Contractor Health and Safety Performance, EM-MM-320a.1,403-09,,
+,,Abstract Bold,Exploration,, ,,
+,Actual,,Person-hours worked,, ,"2,217,325","1,486,578"
+,Actual,,Fatalities,, ,1,0
+,Actual,,Lost time accidents,, ,9,1
+,Actual,,Light duty incidents,, ,6,1
+,Actual,,Medical aid incident,, ,7,4
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.81,0.13
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,4.06,0.67
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,1.98,0.81
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,9.92,4.04
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Person-hours worked,, ,0,0
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,0,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.00,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,0.00,0.00
+,,Abstract Bold,Northern Territory Operations,, ,,
+,Actual,,Person-hours worked,, ,0,"35,040"
+,Actual,, of fatalities,, ,0,0
+,Actual,,Lost time accidents,, ,0,0
+,Actual,,Light duty incidents,, ,0,0
+,Actual,,Medical aid incident,, ,0,0
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.00,0.00
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,0.00,0.00
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,0.00,0.00
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,0.00,0.00
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Person-hours worked,, ,"12,956,721","14,521,349"
+,Actual,, of fatalities,, ,1,0
+,Actual,,Lost time accidents,, ,40,30
+,Actual,,Light duty incidents,, ,17,12
+,Actual,,Medical aid incident,, ,26,45
+,Actual,,Lost-time injury frequency per 200k person-hours worked,, ,0.62,0.41
+,Actual,,Lost-time injury frequency per 1M person-hours worked,, ,3.09,2.07
+,Actual,,Total incidents frequency per 200k person-hours worked frequency,, ,1.28,1.20
+,Actual,,Total incidents frequency per 1M person-hours worked frequency,, ,6.41,5.99
+,,,,, ,,
+,,Abstract Bold,Community Health & Safety,, ,,
+,,Abstract Bold,Incidents (Non-COVID Related) Affecting Communities where Emergency Procedures were Activated,, ,,
+,Actual,,Agnico Eagle,, ,0,
+,Actual,,LaRonde,, ,0,
+,Actual,,Goldex,, ,0,
+,Actual,,Kittilä,, ,0,
+,Actual,,Pinos Altos,, ,0,
+,Actual,,La India,, ,0,
+,Actual,,Meadowbank,, ,0,
+,Actual,,Meliadine,, ,0,
+,Actual,,Hope Bay,, ,0,
+,Actual,,Macassa,, ,0,
+,Actual,,Detour Lake,, ,0,
+,Actual,,Fosterville,, ,0,
+,Actual,,Exploration,, ,0,
+,Actual,,Administration (Head Office),, ,0,
+,Actual,,Northern Territory Operations,, ,0,
+,,,,, ,,
+,,Abstract Bold,Workforce,, ,,
+,,Abstract Bold,"Global Workforce by Employment Type, Contract, Gender and Region",EM-MM-000.B,2-7,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,Bold,Total contractors,, ,84,123
+,Actual,Bold,Total Agnico employees,, ,83,92
+,Actual,,Total employees male,, ,66,66
+,Actual,,Total employees female,, ,17,26
+,Actual,,Total agnico permanent,, ,57,60
+,Actual,,Permanent male,, ,47,47
+,Actual,,Permanent female,, ,10,13
+,Actual,,Total agnico temporary,, ,25,28
+,Actual,,Temporary male,, ,19,18
+,Actual,,Temporary female,, ,6,10
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,1,4
+,Actual,,Student male,, ,0,1
+,Actual,,Student female,, ,1,3
+,Actual,Bold,Percentage contractors,, ,50%,57%
+,Actual,Bold,Total workforce,, ,167,215
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,Bold,Total contractors,, ,7,4
+,Actual,Bold,Total Agnico employees,, ,14,11
+,Actual,,Total employees male,, ,11,9
+,Actual,,Total employees female,, ,3,2
+,Actual,,Total agnico permanent,, ,12,10
+,Actual,,Permanent male,, ,9,8
+,Actual,,Permanent female,, ,3,2
+,Actual,,Total agnico temporary,, ,2,1
+,Actual,,Temporary male,, ,2,1
+,Actual,,Temporary female,, ,0,0
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,33%,27%
+,Actual,Bold,Total workforce,, ,21,15
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,Bold,Total contractors,, ,1,1
+,Actual,Bold,Total Agnico employees,, ,7,7
+,Actual,,Total employees male,, ,6,6
+,Actual,,Total employees female,, ,1,1
+,Actual,,Total agnico permanent,, ,7,7
+,Actual,,Permanent male,, ,6,6
+,Actual,,Permanent female,, ,1,1
+,Actual,,Total agnico temporary,, ,0,0
+,Actual,,Temporary male,, ,0,0
+,Actual,,Temporary female,, ,0,0
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,13%,13%
+,Actual,Bold,Total workforce,, ,8,8
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,Bold,Total contractors,, ,0,8
+,Actual,Bold,Total Agnico employees,, ,9,17
+,Actual,,Total employees male,, ,7,12
+,Actual,,Total employees female,, ,2,5
+,Actual,,Total agnico permanent,, ,9,16
+,Actual,,Permanent male,, ,7,12
+,Actual,,Permanent female,, ,2,4
+,Actual,,Total agnico temporary,, ,0,1
+,Actual,,Temporary male,, ,0,0
+,Actual,,Temporary female,, ,0,1
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,0%,32%
+,Actual,Bold,Total workforce,, ,9,25
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,Bold,Total contractors,, ,18,4
+,Actual,Bold,Total Agnico employees,, ,17,9
+,Actual,,Total employees male,, ,13,6
+,Actual,,Total employees female,, ,4,3
+,Actual,,Total agnico permanent,, ,17,9
+,Actual,,Permanent male,, ,13,6
+,Actual,,Permanent female,, ,4,3
+,Actual,,Total agnico temporary,, ,0,0
+,Actual,,Temporary male,, ,0,0
+,Actual,,Temporary female,, ,0,0
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,51%,31%
+,Actual,Bold,Total workforce,, ,35,13
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,Bold,Total contractors,, ,0,0
+,Actual,Bold,Total Agnico employees,, ,194,249
+,Actual,,Total employees male,, ,127,159
+,Actual,,Total employees female,, ,67,90
+,Actual,,Total agnico permanent,, ,183,235
+,Actual,,Permanent male,, ,121,151
+,Actual,,Permanent female,, ,62,84
+,Actual,,Total agnico temporary,, ,11,10
+,Actual,,Temporary male,, ,6,6
+,Actual,,Temporary female,, ,5,4
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,23,26
+,Actual,,Student male,, ,16,17
+,Actual,,Student female,, ,7,9
+,Actual,Bold,Percentage contractors,, ,0%,0%
+,Actual,Bold,Total workforce,, ,194,249
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,Bold,Total contractors,, ,0,0
+,Actual,Bold,Total Agnico employees,, ,208,239
+,Actual,,Total employees male,, ,116,132
+,Actual,,Total employees female,, ,92,107
+,Actual,,Total agnico permanent,, ,190,217
+,Actual,,Permanent male,, ,110,120
+,Actual,,Permanent female,, ,80,97
+,Actual,,Total agnico temporary,, ,11,18
+,Actual,,Temporary male,, ,3,11
+,Actual,,Temporary female,, ,8,7
+,Actual,,Total agnico on-call,, ,3,0
+,Actual,,On-call male,, ,3,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,4,4
+,Actual,,Student male,, ,0,1
+,Actual,,Student female,, ,4,3
+,Actual,Bold,Percentage contractors,, ,0%,0%
+,Actual,Bold,Total workforce,, ,208,239
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,Bold,Total contractors,, ,0,
+,Actual,Bold,Total Agnico employees,, ,29,
+,Actual,,Total employees male,, ,14,
+,Actual,,Total employees female,, ,15,
+,Actual,,Total agnico permanent,, ,29,
+,Actual,,Permanent male,, ,14,
+,Actual,,Permanent female,, ,15,
+,Actual,,Total agnico temporary,, ,0,
+,Actual,,Temporary male,, ,0,
+,Actual,,Temporary female,, ,0,
+,Actual,,Total agnico on-call,, ,0,
+,Actual,,On-call male,, ,0,
+,Actual,,On-call female,, ,0,
+,Actual,,Total student,, ,0,
+,Actual,,Student male,, ,0,
+,Actual,,Student female,, ,0,
+,Actual,Bold,Percentage contractors,, ,0%,
+,Actual,Bold,Total workforce,, ,29,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,Bold,Total contractors,, ,,0
+,Actual,Bold,Total agnico employees,, ,,149
+,Actual,,Total employees male,, ,,63
+,Actual,,Total employees female,, ,,86
+,Actual,,Total agnico permanent,, ,,135
+,Actual,,Permanent male,, ,,59
+,Actual,,Permanent female,, ,,76
+,Actual,,Total agnico temporary,, ,,13
+,Actual,,Temporary male,, ,,3
+,Actual,,Temporary female,, ,,10
+,Actual,,Total agnico on-call,, ,,0
+,Actual,,On-call male,, ,,0
+,Actual,,On-call female,, ,,0
+,Actual,,Total student,, ,,1
+,Actual,,Student male,, ,,1
+,Actual,,Student female,, ,,0
+,Actual,Bold,Percentage contractors,, ,,0%
+,Actual,Bold,Total workforce,, ,,149
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,Bold,Total contractors,, ,15,2
+,Actual,Bold,Total Agnico employees,, ,33,32
+,Actual,,Total employees male,, ,23,24
+,Actual,,Total employees female,, ,10,8
+,Actual,,Total agnico permanent,, ,17,27
+,Actual,,Permanent male,, ,13,22
+,Actual,,Permanent female,, ,4,5
+,Actual,,Total agnico temporary,, ,9,3
+,Actual,,Temporary male,, ,7,1
+,Actual,,Temporary female,, ,2,2
+,Actual,,Total agnico on-call,, ,5,2
+,Actual,,On-call male,, ,2,1
+,Actual,,On-call female,, ,3,1
+,Actual,,Total student,, ,2,0
+,Actual,,Student male,, ,1,0
+,Actual,,Student female,, ,1,0
+,Actual,Bold,Percentage contractors,, ,31%,6%
+,Actual,Bold,Total workforce,, ,48,34
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,Bold,Total contractors,, ,0,0
+,Actual,Bold,Total Agnico employees,, ,72,79
+,Actual,,Total employees male,, ,40,44
+,Actual,,Total employees female,, ,32,35
+,Actual,,Total agnico permanent,, ,69,77
+,Actual,,Permanent male,, ,39,44
+,Actual,,Permanent female,, ,30,33
+,Actual,,Total agnico temporary,, ,3,2
+,Actual,,Temporary male,, ,1,0
+,Actual,,Temporary female,, ,2,2
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,0%,0%
+,Actual,Bold,Total workforce,, ,72,79
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,Bold,Total contractors,, ,3,0
+,Actual,Bold,Total Agnico employees,, ,14,18
+,Actual,,Total employees male,, ,12,14
+,Actual,,Total employees female,, ,2,4
+,Actual,,Total agnico permanent,, ,14,18
+,Actual,,Permanent male,, ,12,14
+,Actual,,Permanent female,, ,2,4
+,Actual,,Total agnico temporary,, ,0,0
+,Actual,,Temporary male,, ,0,0
+,Actual,,Temporary female,, ,0,0
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,18%,0%
+,Actual,Bold,Total workforce,, ,17,18
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,Bold,Total contractors,, ,1,1
+,Actual,Bold,Total Agnico employees,, ,16,12
+,Actual,,Total employees male,, ,13,11
+,Actual,,Total employees female,, ,3,1
+,Actual,,Total agnico permanent,, ,15,12
+,Actual,,Permanent male,, ,12,11
+,Actual,,Permanent female,, ,3,1
+,Actual,,Total agnico temporary,, ,1,0
+,Actual,,Temporary male,, ,1,0
+,Actual,,Temporary female,, ,0,0
+,Actual,,Total agnico on-call,, ,0,0
+,Actual,,On-call male,, ,0,0
+,Actual,,On-call female,, ,0,0
+,Actual,,Total student,, ,0,0
+,Actual,,Student male,, ,0,0
+,Actual,,Student female,, ,0,0
+,Actual,Bold,Percentage contractors,, ,6%,8%
+,Actual,Bold,Total workforce,, ,17,13
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,Bold,Total contractors,, ,"4,674","5,313"
+,Actual,Bold,Total Agnico employees,, ,"9,459","10,515"
+,Actual,,Total employees male,, ,"8,082","8,939"
+,Actual,,Total employees female,, ,"1,377","1,576"
+,Actual,,Total agnico permanent,, ,"9,084","10,138"
+,Actual,,Permanent male,, ,"7,853","8,706"
+,Actual,,Permanent female,, ,"1,231","1,432"
+,Actual,,Total agnico temporary,, ,244,235
+,Actual,,Temporary male,, ,141,136
+,Actual,,Temporary female,, ,103,99
+,Actual,,Total agnico on-call,, ,42,41
+,Actual,,On-call male,, ,32,32
+,Actual,,On-call female,, ,10,9
+,Actual,,Total student,, ,89,101
+,Actual,,Student male,, ,56,65
+,Actual,,Student female,, ,33,36
+,Actual,Bold,Percentage contractors,, ,33%,34%
+,Actual,Bold,Total workforce,, ,"14,133","15,828"
+,,,,, ,,
+,,Abstract Bold,"New Employee Hires by Age Group, Gender, and Region",,401-01,,
+,,Abstract Bold,Exploration Canada ,, ,,
+,Actual,,Total female new hires,, ,16,18
+,Actual,,Female under 30 years,, ,12,16
+,Actual,,Female 30-50 years,, ,4,2
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,25,22
+,Actual,,Male under 30 years,, ,16,14
+,Actual,,Male 30-50 years,, ,7,6
+,Actual,,Male over 50 years,, ,2,2
+,Actual,Bold,% Female new hires,, ,39%,45%
+,Actual,Bold,Total new hires,, ,41,40
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total female new hires,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,1,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,1,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,0%,0%
+,Actual,Bold,Total new hires,, ,1,0
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total female new hires,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,0,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,0%,0%
+,Actual,Bold,Total new hires,, ,0,0
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total female new hires,, ,1,6
+,Actual,,Female under 30 years,, ,1,6
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,2,2
+,Actual,,Male under 30 years,, ,2,2
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,33%,75%
+,Actual,Bold,Total new hires,, ,3,8
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total female new hires,, ,0,2
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,2
+,Actual,,Total male new hires,, ,0,1
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,1
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,0%,67%
+,Actual,Bold,Total new hires,, ,0,3
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total female new hires,, ,13,19
+,Actual,,Female under 30 years,, ,9,14
+,Actual,,Female 30-50 years,, ,3,4
+,Actual,,Female over 50 years,, ,1,1
+,Actual,,Total male new hires,, ,15,14
+,Actual,,Male under 30 years,, ,7,7
+,Actual,,Male 30-50 years,, ,5,5
+,Actual,,Male over 50 years,, ,3,2
+,Actual,Bold,% Female new hires,, ,46%,58%
+,Actual,Bold,Total new hires,, ,28,33
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total female new hires,, ,21,22
+,Actual,,Female under 30 years,, ,11,11
+,Actual,,Female 30-50 years,, ,10,9
+,Actual,,Female over 50 years,, ,0,2
+,Actual,,Total male new hires,, ,21,36
+,Actual,,Male under 30 years,, ,10,18
+,Actual,,Male 30-50 years,, ,8,11
+,Actual,,Male over 50 years,, ,3,7
+,Actual,Bold,% Female new hires,, ,50%,38%
+,Actual,Bold,Total new hires,, ,42,58
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total female new hires,, ,0,
+,Actual,,Female under 30 years,, ,0,
+,Actual,,Female 30-50 years,, ,0,
+,Actual,,Female over 50 years,, ,0,
+,Actual,,Total male new hires,, ,0,
+,Actual,,Male under 30 years,, ,0,
+,Actual,,Male 30-50 years,, ,0,
+,Actual,,Male over 50 years,, ,0,
+,Actual,Bold,% Female new hires,, ,0%,
+,Actual,Bold,Total new hires,, ,0,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total female new hires,, ,,17
+,Actual,,Female under 30 years,, ,,8
+,Actual,,Female 30-50 years,, ,,9
+,Actual,,Female over 50 years,, ,,0
+,Actual,,Total male new hires,, ,,12
+,Actual,,Male under 30 years,, ,,3
+,Actual,,Male 30-50 years,, ,,9
+,Actual,,Male over 50 years,, ,,0
+,Actual,Bold,% Female new hires,, ,,59%
+,Actual,Bold,Total new hires,, ,,29
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total female new hires,, ,9,1
+,Actual,,Female under 30 years,, ,3,1
+,Actual,,Female 30-50 years,, ,4,0
+,Actual,,Female over 50 years,, ,2,0
+,Actual,,Total male new hires,, ,13,14
+,Actual,,Male under 30 years,, ,1,1
+,Actual,,Male 30-50 years,, ,6,8
+,Actual,,Male over 50 years,, ,6,5
+,Actual,Bold,% Female new hires,, ,41%,7%
+,Actual,Bold,Total new hires,, ,22,15
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total female new hires,, ,3,5
+,Actual,,Female under 30 years,, ,1,2
+,Actual,,Female 30-50 years,, ,2,1
+,Actual,,Female over 50 years,, ,0,2
+,Actual,,Total male new hires,, ,6,7
+,Actual,,Male under 30 years,, ,1,1
+,Actual,,Male 30-50 years,, ,2,4
+,Actual,,Male over 50 years,, ,3,2
+,Actual,Bold,% Female new hires,, ,33%,42%
+,Actual,Bold,Total new hires,, ,9,12
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total female new hires,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,1,4
+,Actual,,Male under 30 years,, ,0,1
+,Actual,,Male 30-50 years,, ,1,3
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,0%,0%
+,Actual,Bold,Total new hires,, ,1,4
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total female new hires,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male new hires,, ,1,0
+,Actual,,Male under 30 years,, ,1,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,% Female new hires,, ,0%,0%
+,Actual,Bold,Total new hires,, ,1,0
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total female new hires,, ,440,462
+,Actual,,Female under 30 years,, ,264,289
+,Actual,,Female 30-50 years,, ,147,138
+,Actual,,Female over 50 years,, ,29,35
+,Actual,,Total male new hires,, ,"1,450","1,476"
+,Actual,,Male under 30 years,, ,632,678
+,Actual,,Male 30-50 years,, ,648,658
+,Actual,,Male over 50 years,, ,170,140
+,Actual,Bold,% Female new hires,, ,23%,24%
+,Actual,Bold,Total new hires,, ,"1,890","1,938"
+,,,,, ,,
+,,Abstract Bold,"New Employee Hire Rate by Gender, and Region",,401-01,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Total female new hire rate,, ,76.2%,75.0%
+,Actual,,Total male new hire rate,, ,38.5%,31.9%
+,Actual,,Total new hire rate,, ,47.7%,43.0%
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total female new hire rate,, ,0.0%,0.0%
+,Actual,,Total male new hire rate,, ,9.1%,0.0%
+,Actual,,Total new hire rate,, ,7.1%,0.0%
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total female new hire rate,, ,0.0%,0.0%
+,Actual,,Total male new hire rate,, ,0.0%,0.0%
+,Actual,,Total new hire rate,, ,0.0%,0.0%
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total female new hire rate,, ,50.0%,200.0%
+,Actual,,Total male new hire rate,, ,28.6%,22.2%
+,Actual,,Total new hire rate,, ,33.3%,66.7%
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total female new hire rate,, ,0.0%,66.7%
+,Actual,,Total male new hire rate,, ,0.0%,11.1%
+,Actual,,Total new hire rate,, ,0.0%,25.0%
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total female new hire rate,, ,19.1%,21.8%
+,Actual,,Total male new hire rate,, ,11.5%,9.2%
+,Actual,,Total new hire rate,, ,14.1%,13.8%
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total female new hire rate,, ,22.8%,19.6%
+,Actual,,Total male new hire rate,, ,18.1%,27.7%
+,Actual,,Total new hire rate,, ,20.2%,24.0%
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total female new hire rate,, ,0.0%,
+,Actual,,Total male new hire rate,, ,10.9%,
+,Actual,,Total new hire rate,, ,0.0%,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total female new hire rate,, ,,18.9%
+,Actual,,Total male new hire rate,, ,,18.2%
+,Actual,,Total new hire rate,, ,,18.6%
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total female new hire rate,, ,90.0%,14.3%
+,Actual,,Total male new hire rate,, ,54.2%,58.3%
+,Actual,,Total new hire rate,, ,71.0%,48.4%
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total female new hire rate,, ,10.3%,14.7%
+,Actual,,Total male new hire rate,, ,10.9%,16.6%
+,Actual,,Total new hire rate,, ,10.7%,15.7%
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total female new hire rate,, ,0.0%,0.0%
+,Actual,,Total male new hire rate,, ,8.3%,33.3%
+,Actual,,Total new hire rate,, ,7.7%,26.7%
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total female new hire rate,, ,0.0%,0.0%
+,Actual,,Total male new hire rate,, ,7.7%,0.0%
+,Actual,,Total new hire rate,, ,6.7%,0.0%
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total female new hire rate,, ,32.8%,28.9%
+,Actual,,Total male new hire rate,, ,18.1%,16.6%
+,Actual,,Total new hire rate,, ,20.3%,18.5%
+,,,,, ,,
+,,Abstract Bold,"Permanent Employee Turnover by Age Group, Gender, and Region",,401-01,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Total female turnover,, ,3,1
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,1,1
+,Actual,,Female over 50 years,, ,2,0
+,Actual,,Total male turnover,, ,1,1
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,1,1
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,Total turnover,, ,4,2
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total female turnover,, ,0,1
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,1
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,0,1
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,1
+,Actual,Bold,Total turnover,, ,0,2
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total female turnover,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,0,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,Total turnover,, ,0,0
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total female turnover,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,0,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,Total turnover,, ,0,0
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total female turnover,, ,0,1
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,1
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,0,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,Total turnover,, ,0,1
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total female turnover,, ,3,3
+,Actual,,Female under 30 years,, ,1,0
+,Actual,,Female 30-50 years,, ,2,1
+,Actual,,Female over 50 years,, ,0,2
+,Actual,,Total male turnover,, ,7,7
+,Actual,,Male under 30 years,, ,1,0
+,Actual,,Male 30-50 years,, ,4,3
+,Actual,,Male over 50 years,, ,2,4
+,Actual,Bold,Total turnover,, ,10,10
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total female turnover,, ,4,6
+,Actual,,Female under 30 years,, ,0,1
+,Actual,,Female 30-50 years,, ,4,5
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,10,11
+,Actual,,Male under 30 years,, ,1,0
+,Actual,,Male 30-50 years,, ,8,11
+,Actual,,Male over 50 years,, ,1,0
+,Actual,Bold,Total turnover,, ,14,17
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total female turnover,, ,5,
+,Actual,,Female under 30 years,, ,1,
+,Actual,,Female 30-50 years,, ,3,
+,Actual,,Female over 50 years,, ,1,
+,Actual,,Total male turnover,, ,14,
+,Actual,,Male under 30 years,, ,1,
+,Actual,,Male 30-50 years,, ,5,
+,Actual,,Male over 50 years,, ,8,
+,Actual,Bold,Total turnover,, ,19,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total female turnover,, ,,4
+,Actual,,Female under 30 years,, ,,0
+,Actual,,Female 30-50 years,, ,,3
+,Actual,,Female over 50 years,, ,,1
+,Actual,,Total male turnover,, ,,2
+,Actual,,Male under 30 years,, ,,0
+,Actual,,Male 30-50 years,, ,,2
+,Actual,,Male over 50 years,, ,,0
+,Actual,Bold,Total turnover,, ,,6
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total female turnover,, ,4,1
+,Actual,,Female under 30 years,, ,2,0
+,Actual,,Female 30-50 years,, ,1,1
+,Actual,,Female over 50 years,, ,1,0
+,Actual,,Total male turnover,, ,12,5
+,Actual,,Male under 30 years,, ,1,2
+,Actual,,Male 30-50 years,, ,10,0
+,Actual,,Male over 50 years,, ,1,3
+,Actual,Bold,Total turnover,, ,16,6
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total female turnover,, ,5,1
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,5,1
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,11,5
+,Actual,,Male under 30 years,, ,3,0
+,Actual,,Male 30-50 years,, ,1,1
+,Actual,,Male over 50 years,, ,7,4
+,Actual,Bold,Total turnover,, ,16,6
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total female turnover,, ,0,0
+,Actual,,Female under 30 years,, ,0,0
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,2,0
+,Actual,,Male under 30 years,, ,0,0
+,Actual,,Male 30-50 years,, ,0,0
+,Actual,,Male over 50 years,, ,2,0
+,Actual,Bold,Total turnover,, ,2,0
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total female turnover,, ,0,1
+,Actual,,Female under 30 years,, ,0,1
+,Actual,,Female 30-50 years,, ,0,0
+,Actual,,Female over 50 years,, ,0,0
+,Actual,,Total male turnover,, ,0,2
+,Actual,,Male under 30 years,, ,0,1
+,Actual,,Male 30-50 years,, ,0,1
+,Actual,,Male over 50 years,, ,0,0
+,Actual,Bold,Total turnover,, ,0,3
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total female turnover,, ,150,157
+,Actual,,Female under 30 years,, ,32,43
+,Actual,,Female 30-50 years,, ,101,92
+,Actual,,Female over 50 years,, ,17,22
+,Actual,,Total male turnover,, ,874,857
+,Actual,,Male under 30 years,, ,156,175
+,Actual,,Male 30-50 years,, ,517,529
+,Actual,,Male over 50 years,, ,201,153
+,Actual,Bold,Total turnover,, ,"1,024","1,014"
+,,,,, ,,
+,,Abstract Bold,"Permanent Employee Turnover rate by Gender, and Region",,401-1,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Total female turnover rate,, ,25.0%,9.1%
+,Actual,,Total male turnover rate,, ,2.2%,2.2%
+,Actual,Bold,Total turnover rate,, ,7.0%,3.5%
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total female turnover rate,, ,0.0%,50.0%
+,Actual,,Total male turnover rate,, ,0.0%,12.5%
+,Actual,Bold,Total turnover rate,, ,0.0%,20.0%
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total female turnover rate,, ,0.0%,0.0%
+,Actual,,Total male turnover rate,, ,0.0%,0.0%
+,Actual,Bold,Total turnover rate,, ,0.0%,0.0%
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total female turnover rate,, ,0.0%,0.0%
+,Actual,,Total male turnover rate,, ,0.0%,0.0%
+,Actual,Bold,Total turnover rate,, ,0.0%,0.0%
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total female turnover rate,, ,0.0%,33.3%
+,Actual,,Total male turnover rate,, ,0.0%,0.0%
+,Actual,Bold,Total turnover rate,, ,0.0%,8.3%
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total female turnover rate,, ,5.1%,3.7%
+,Actual,,Total male turnover rate,, ,5.8%,4.8%
+,Actual,Bold,Total turnover rate,, ,5.6%,4.4%
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total female turnover rate,, ,5.0%,6.4%
+,Actual,,Total male turnover rate,, ,9.1%,9.6%
+,Actual,Bold,Total turnover rate,, ,7.4%,8.1%
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total female turnover rate,, ,33.3%,
+,Actual,,Total male turnover rate,, ,100.0%,
+,Actual,Bold,Total turnover rate,, ,65.5%,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total female turnover rate,, ,,5.3%
+,Actual,,Total male turnover rate,, ,,3.4%
+,Actual,Bold,Total turnover rate,, ,,4.5%
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total female turnover rate,, ,80.0%,25.0%
+,Actual,,Total male turnover rate,, ,85.7%,29.4%
+,Actual,Bold,Total turnover rate,, ,84.2%,28.6%
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total female turnover rate,, ,17.2%,3.1%
+,Actual,,Total male turnover rate,, ,20.0%,12.1%
+,Actual,Bold,Total turnover rate,, ,19.1%,8.2%
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total female turnover rate,, ,0.0%,0.0%
+,Actual,,Total male turnover rate,, ,18.2%,0.0%
+,Actual,Bold,Total turnover rate,, ,15.4%,0.0%
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total female turnover rate,, ,0.0%,100.0%
+,Actual,,Total male turnover rate,, ,0.0%,16.7%
+,Actual,Bold,Total turnover rate,, ,0.0%,23.1%
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total female turnover rate,, ,12.8%,11.1%
+,Actual,,Total male turnover rate,, ,11.3%,9.9%
+,Actual,Bold,Total turnover rate,, ,11.5%,10.1%
+,,,,, ,,
+,,Abstract Bold,Diversity of Employee in Management Positions by Gender,, ,,
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Female front-line management and supervisors,, ,174,
+,Actual,,Male front-line management and supervisors,, ,"1,074",
+,Actual,Bold,%Female front-line management and supervisors,, ,14%,
+,Actual,,Female senior management,, ,87,
+,Actual,,Male senior management,, ,304,
+,Actual,Bold,%Female senior management,, ,22%,
+,Actual,,Female in all management positions,, ,261,
+,Actual,,Male in all management positions,, ,"1,378",
+,Actual,Bold,%Female in all management positions,, ,19%,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Female front-line management and supervisors,, ,2,
+,Actual,,Male front-line management and supervisors,, ,13,
+,Actual,Bold,%Female front-line management and supervisors,, ,13%,
+,Actual,Bold,%Female senior management,, ,N/A,
+,Actual,,Female in all management positions,, ,2,
+,Actual,,Male in all management positions,, ,13,
+,Actual,Bold,%Female in all management positions,, ,15%,
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Female front-line management and supervisors,, ,1,
+,Actual,,Male front-line management and supervisors,, ,5,
+,Actual,Bold,%Female front-line management and supervisors,, ,17%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,5,
+,Actual,Bold,%Female senior management,, ,0%,
+,Actual,,Female in all management positions,, ,1,
+,Actual,,Male in all management positions,, ,10,
+,Actual,Bold,%Female in all management positions,, ,10%,
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Female front-line management and supervisors,, ,1,
+,Actual,,Male front-line management and supervisors,, ,0,
+,Actual,Bold,%Female front-line management and supervisors,, ,100%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,0,
+,Actual,Bold,%Female senior management,, ,N/A,
+,Actual,,Female in all management positions,, ,1,
+,Actual,,Male in all management positions,, ,0,
+,Actual,Bold,%Female in all management positions,, ,0%,
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Female front-line management and supervisors,, ,0,
+,Actual,,Male front-line management and supervisors,, ,2,
+,Actual,Bold,%Female front-line management and supervisors,, ,0%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,0,
+,Actual,Bold,%Female senior management,, ,N/A,
+,Actual,,Female in all management positions,, ,0,
+,Actual,,Male in all management positions,, ,2,
+,Actual,Bold,%Female in all management positions,, ,0%,
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Female front-line management and supervisors,, ,2,
+,Actual,,Male front-line management and supervisors,, ,3,
+,Actual,Bold,%Female front-line management and supervisors,, ,40%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,3,
+,Actual,Bold,%Female senior management,, ,0%,
+,Actual,,Female in all management positions,, ,2,
+,Actual,,Male in all management positions,, ,6,
+,Actual,Bold,%Female in all management positions,, ,33%,
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Female front-line management and supervisors,, ,11,
+,Actual,,Male front-line management and supervisors,, ,6,
+,Actual,Bold,%Female front-line management and supervisors,, ,65%,
+,Actual,,Female senior management,, ,30,
+,Actual,,Male senior management,, ,109,
+,Actual,Bold,%Female senior management,, ,22%,
+,Actual,,Female in all management positions,, ,41,
+,Actual,,Male in all management positions,, ,115,
+,Actual,Bold,%Female in all management positions,, ,36%,
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Female front-line management and supervisors,, ,9,
+,Actual,,Male front-line management and supervisors,, ,13,
+,Actual,Bold,%Female front-line management and supervisors,, ,41%,
+,Actual,,Female senior management,, ,6,
+,Actual,,Male senior management,, ,13,
+,Actual,Bold,%Female senior management,, ,32%,
+,Actual,,Female in all management positions,, ,15,
+,Actual,,Male in all management positions,, ,26,
+,Actual,Bold,%Female in all management positions,, ,58%,
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Female front-line management and supervisors,, ,4,
+,Actual,,Male front-line management and supervisors,, ,2,
+,Actual,Bold,%Female front-line management and supervisors,, ,67%,
+,Actual,,Female senior management,, ,9,
+,Actual,,Male senior management,, ,11,
+,Actual,Bold,%Female senior management,, ,45%,
+,Actual,,Female in all management positions,, ,13,
+,Actual,,Male in all management positions,, ,13,
+,Actual,Bold,%Female in all management positions,, ,100%,
+,,Abstract Bold,NT,, ,,
+,Actual,,Female front-line management and supervisors,, ,1,
+,Actual,,Male front-line management and supervisors,, ,4,
+,Actual,Bold,%Female front-line management and supervisors,, ,20%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,1,
+,Actual,Bold,%Female senior management,, ,0%,
+,Actual,,Female in all management positions,, ,1,
+,Actual,,Male in all management positions,, ,5,
+,Actual,Bold,%Female in all management positions,, ,20%,
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Female front-line management and supervisors,, ,7,
+,Actual,,Male front-line management and supervisors,, ,14,
+,Actual,Bold,%Female front-line management and supervisors,, ,33%,
+,Actual,,Female senior management,, ,5,
+,Actual,,Male senior management,, ,7,
+,Actual,Bold,%Female senior management,, ,42%,
+,Actual,,Female in all management positions,, ,12,
+,Actual,,Male in all management positions,, ,21,
+,Actual,Bold,%Female in all management positions,, ,57%,
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Female front-line management and supervisors,, ,0,
+,Actual,,Male front-line management and supervisors,, ,1,
+,Actual,Bold,%Female front-line management and supervisors,, ,0%,
+,Actual,,Female senior management,, ,1,
+,Actual,,Male senior management,, ,6,
+,Actual,Bold,%Female senior management,, ,14%,
+,Actual,,Female in all management positions,, ,1,
+,Actual,,Male in all management positions,, ,7,
+,Actual,Bold,%Female in all management positions,, ,14%,
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Female front-line management and supervisors,, ,0,
+,Actual,,Male front-line management and supervisors,, ,3,
+,Actual,Bold,%Female front-line management and supervisors,, ,0%,
+,Actual,,Female senior management,, ,0,
+,Actual,,Male senior management,, ,3,
+,Actual,Bold,%Female senior management,, ,0%,
+,Actual,,Female in all management positions,, ,0,
+,Actual,,Male in all management positions,, ,6,
+,Actual,Bold,%Female in all management positions,, ,0%,
+,,,,, ,,
+,,Abstract Bold,Average Hours of Training per Year per Employee,,404-1,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Total hours of training for employees,, ,"1,095",896
+,Actual,,Average hours of training per employee,, ,13,10
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total hours of training for employees,, ,125,125
+,Actual,,Average hours of training per employee,, ,9,11
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total hours of training for employees,, ,144,264
+,Actual,,Average hours of training per employee,, ,21,38
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total hours of training for employees,, ,230,42
+,Actual,,Average hours of training per employee,, ,26,4
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total hours of training for employees,, ,"1,776",528
+,Actual,,Average hours of training per employee,, ,81,44
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total hours of training for employees,, ,"1,057",276
+,Actual,,Average hours of training per employee,, ,5,1
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total hours of training for employees,, ,171,100
+,Actual,,Average hours of training per employee,, ,1,0
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total hours of training for employees,, ,31,
+,Actual,,Average hours of training per employee,, ,1,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total hours of training for employees,, ,,775
+,Actual,,Average hours of training per employee,, ,,5
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total hours of training for employees,, ,452,530
+,Actual,,Average hours of training per employee,, ,15,17
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total hours of training for employees,, ,0,462
+,Actual,,Average hours of training per employee,, ,0,6
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total hours of training for employees,, ,35,65
+,Actual,,Average hours of training per employee,, ,3,4
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total hours of training for employees,, ,0,366
+,Actual,,Average hours of training per employee,, ,0,28
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total hours of training for employees,, ,"310,541","443,694"
+,Actual,,Average hours of training per employee,, ,33,42
+,,,,, ,,
+,,Abstract Bold,Diversity of Board of Directors by Gender,,405-2,,
+,Actual,,Percentage female,, ,33%,36%
+,Actual,,Percentage male,, ,67%,64%
+,,,,, ,,
+,,Abstract Bold,Diversity of Board of Directors by Age,,405-1,,
+,Actual,,Percentage under 30 years,, ,0%,0%
+,Actual,,Percentage 30-50 years,, ,0%,0%
+,Actual,,Percentage over 50 years,, ,100%,100%
+,,,,, ,,
+,,Abstract Bold,Diversity of Employees per Employee Category by Gender,,405-1,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Percentage of hourly employees female,, ,100%,57%
+,Actual,,Percentage of hourly employees male,, ,0%,43%
+,Actual,,Percentage of salaried employees female,, ,20%,26%
+,Actual,,Percentage of salaried employees male,, ,80%,74%
+,Actual,Bold,Percentage of female employees,, ,20%,28%
+,Actual,Bold,Percentage of male employees,, ,80%,72%
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,21%,18%
+,Actual,,Percentage of salaried employees male,, ,79%,82%
+,Actual,Bold,Percentage of female employees,, ,21%,18%
+,Actual,Bold,Percentage of male employees,, ,79%,82%
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,14%,14%
+,Actual,,Percentage of salaried employees male,, ,86%,86%
+,Actual,Bold,Percentage of female employees,, ,14%,14%
+,Actual,Bold,Percentage of male employees,, ,86%,86%
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,22%,29%
+,Actual,,Percentage of salaried employees male,, ,78%,71%
+,Actual,Bold,Percentage of female employees,, ,22%,29%
+,Actual,Bold,Percentage of male employees,, ,78%,71%
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,24%,33%
+,Actual,,Percentage of salaried employees male,, ,76%,67%
+,Actual,Bold,Percentage of female employees,, ,24%,33%
+,Actual,Bold,Percentage of male employees,, ,76%,67%
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,35%,36%
+,Actual,,Percentage of salaried employees male,, ,65%,64%
+,Actual,Bold,Percentage of female employees,, ,35%,36%
+,Actual,Bold,Percentage of male employees,, ,65%,64%
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Percentage of hourly employees female,, ,57%,75%
+,Actual,,Percentage of hourly employees male,, ,43%,25%
+,Actual,,Percentage of salaried employees female,, ,44%,44%
+,Actual,,Percentage of salaried employees male,, ,56%,56%
+,Actual,Bold,Percentage of female employees,, ,44%,45%
+,Actual,Bold,Percentage of male employees,, ,56%,55%
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,
+,Actual,,Percentage of hourly employees male,, ,0%,
+,Actual,,Percentage of salaried employees female,, ,52%,
+,Actual,,Percentage of salaried employees male,, ,48%,
+,Actual,Bold,Percentage of female employees,, ,52%,
+,Actual,Bold,Percentage of male employees,, ,48%,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Percentage of hourly employees female,, ,,0%
+,Actual,,Percentage of hourly employees male,, ,,100%
+,Actual,,Percentage of salaried employees female,, ,,58%
+,Actual,,Percentage of salaried employees male,, ,,42%
+,Actual,Bold,Percentage of female employees,, ,,58%
+,Actual,Bold,Percentage of male employees,, ,,42%
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Percentage of hourly employees female,, ,57%,50%
+,Actual,,Percentage of hourly employees male,, ,43%,50%
+,Actual,,Percentage of salaried employees female,, ,23%,23%
+,Actual,,Percentage of salaried employees male,, ,77%,77%
+,Actual,Bold,Percentage of female employees,, ,30%,25%
+,Actual,Bold,Percentage of male employees,, ,70%,75%
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,44%,44%
+,Actual,,Percentage of salaried employees male,, ,56%,56%
+,Actual,Bold,Percentage of female employees,, ,44%,44%
+,Actual,Bold,Percentage of male employees,, ,56%,56%
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,0%,0%
+,Actual,,Percentage of salaried employees female,, ,14%,22%
+,Actual,,Percentage of salaried employees male,, ,86%,78%
+,Actual,Bold,Percentage of female employees,, ,14%,22%
+,Actual,Bold,Percentage of male employees,, ,86%,78%
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Percentage of hourly employees female,, ,0%,0%
+,Actual,,Percentage of hourly employees male,, ,100%,100%
+,Actual,,Percentage of salaried employees female,, ,21%,9%
+,Actual,,Percentage of salaried employees male,, ,79%,91%
+,Actual,Bold,Percentage of female employees,, ,19%,8%
+,Actual,Bold,Percentage of male employees,, ,81%,92%
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Percentage of hourly employees female,, ,8%,8%
+,Actual,,Percentage of hourly employees male,, ,92%,92%
+,Actual,,Percentage of salaried employees female,, ,25%,26%
+,Actual,,Percentage of salaried employees male,, ,75%,74%
+,Actual,Bold,Percentage of female employees,, ,15%,15%
+,Actual,Bold,Percentage of male employees,, ,85%,85%
+,,,,, ,,
+,,Abstract Bold,Diversity of Employees per Employee Category by Age,,405-1,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,43%
+,Actual,,Percentage of hourly employees 30-50 years,, ,100%,57%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,26%,24%
+,Actual,,Percentage of salaried employees 30-50 years,, ,57%,58%
+,Actual,,Percentage of salaried employees over 50 years,, ,17%,17%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,25%
+,Actual,Bold,Percentage of employees 30-50 years,, ,58%,58%
+,Actual,Bold,Percentage of employees over 50 years,, ,17%,17%
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,0%,0%
+,Actual,,Percentage of salaried employees 30-50 years,, ,64%,73%
+,Actual,,Percentage of salaried employees over 50 years,, ,36%,27%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,0%
+,Actual,Bold,Percentage of employees 30-50 years,, ,64%,73%
+,Actual,Bold,Percentage of employees over 50 years,, ,36%,27%
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,29%,29%
+,Actual,,Percentage of salaried employees 30-50 years,, ,29%,29%
+,Actual,,Percentage of salaried employees over 50 years,, ,43%,43%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,29%
+,Actual,Bold,Percentage of employees 30-50 years,, ,29%,29%
+,Actual,Bold,Percentage of employees over 50 years,, ,43%,43%
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,22%,12%
+,Actual,,Percentage of salaried employees 30-50 years,, ,56%,65%
+,Actual,,Percentage of salaried employees over 50 years,, ,22%,24%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,12%
+,Actual,Bold,Percentage of employees 30-50 years,, ,56%,65%
+,Actual,Bold,Percentage of employees over 50 years,, ,22%,24%
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,12%,0%
+,Actual,,Percentage of salaried employees 30-50 years,, ,71%,56%
+,Actual,,Percentage of salaried employees over 50 years,, ,18%,44%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,0%
+,Actual,Bold,Percentage of employees 30-50 years,, ,71%,56%
+,Actual,Bold,Percentage of employees over 50 years,, ,18%,44%
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,5%,6%
+,Actual,,Percentage of salaried employees 30-50 years,, ,62%,63%
+,Actual,,Percentage of salaried employees over 50 years,, ,32%,31%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,6%
+,Actual,Bold,Percentage of employees 30-50 years,, ,62%,63%
+,Actual,Bold,Percentage of employees over 50 years,, ,32%,31%
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,100%,100%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,10%,12%
+,Actual,,Percentage of salaried employees 30-50 years,, ,71%,68%
+,Actual,,Percentage of salaried employees over 50 years,, ,19%,20%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,13%
+,Actual,Bold,Percentage of employees 30-50 years,, ,68%,67%
+,Actual,Bold,Percentage of employees over 50 years,, ,18%,20%
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,
+,Actual,,Percentage of salaried employees under 30 years,, ,0%,
+,Actual,,Percentage of salaried employees 30-50 years,, ,62%,
+,Actual,,Percentage of salaried employees over 50 years,, ,38%,
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,
+,Actual,Bold,Percentage of employees 30-50 years,, ,62%,
+,Actual,Bold,Percentage of employees over 50 years,, ,38%,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,,100%
+,Actual,,Percentage of hourly employees over 50 years,, ,,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,,18%
+,Actual,,Percentage of salaried employees 30-50 years,, ,,61%
+,Actual,,Percentage of salaried employees over 50 years,, ,,20%
+,Actual,Bold,Percentage of employees under 30 years,, ,,18%
+,Actual,Bold,Percentage of employees 30-50 years,, ,,62%
+,Actual,Bold,Percentage of employees over 50 years,, ,,20%
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,43%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,29%,100%
+,Actual,,Percentage of hourly employees over 50 years,, ,29%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,8%,10%
+,Actual,,Percentage of salaried employees 30-50 years,, ,50%,60%
+,Actual,,Percentage of salaried employees over 50 years,, ,42%,30%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,9%
+,Actual,Bold,Percentage of employees 30-50 years,, ,45%,63%
+,Actual,Bold,Percentage of employees over 50 years,, ,39%,28%
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,11%,13%
+,Actual,,Percentage of salaried employees 30-50 years,, ,51%,49%
+,Actual,,Percentage of salaried employees over 50 years,, ,38%,38%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,13%
+,Actual,Bold,Percentage of employees 30-50 years,, ,51%,49%
+,Actual,Bold,Percentage of employees over 50 years,, ,38%,38%
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,0%,0%
+,Actual,,Percentage of hourly employees 30-50 years,, ,0%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,7%,6%
+,Actual,,Percentage of salaried employees 30-50 years,, ,43%,56%
+,Actual,,Percentage of salaried employees over 50 years,, ,50%,39%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,6%
+,Actual,Bold,Percentage of employees 30-50 years,, ,43%,56%
+,Actual,Bold,Percentage of employees over 50 years,, ,50%,39%
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,50%,100%
+,Actual,,Percentage of hourly employees 30-50 years,, ,50%,0%
+,Actual,,Percentage of hourly employees over 50 years,, ,0%,0%
+,Actual,,Percentage of salaried employees under 30 years,, ,36%,9%
+,Actual,,Percentage of salaried employees 30-50 years,, ,29%,36%
+,Actual,,Percentage of salaried employees over 50 years,, ,36%,55%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,17%
+,Actual,Bold,Percentage of employees 30-50 years,, ,31%,33%
+,Actual,Bold,Percentage of employees over 50 years,, ,31%,50%
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Percentage of hourly employees under 30 years,, ,24%,22%
+,Actual,,Percentage of hourly employees 30-50 years,, ,54%,55%
+,Actual,,Percentage of hourly employees over 50 years,, ,22%,23%
+,Actual,,Percentage of salaried employees under 30 years,, ,18%,14%
+,Actual,,Percentage of salaried employees 30-50 years,, ,61%,65%
+,Actual,,Percentage of salaried employees over 50 years,, ,21%,21%
+,Actual,Bold,Percentage of employees under 30 years,, ,0%,19%
+,Actual,Bold,Percentage of employees 30-50 years,, ,57%,59%
+,Actual,Bold,Percentage of employees over 50 years,, ,21%,22%
+,,,,, ,,
+,,Abstract Bold,Local and Indigenous Employment,, ,,
+,,Abstract Bold,Exploration Canada,, ,,
+,Actual,,Total indigenous employees,, ,6,8
+,Actual,,Percentage indigenous employees,, ,7%,9%
+,Actual,,Total local employees,, ,26,26
+,Actual,,Percentage local employees,, ,31%,28%
+,,Abstract Bold,Exploration USA,, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,7,3
+,Actual,,Percentage local employees,, ,50%,27%
+,,Abstract Bold,Exploration Europe Sweden,, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,7,7
+,Actual,,Percentage local employees,, ,100%,100%
+,,Abstract Bold,Exploration Europe Finland,, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,7,11
+,Actual,,Percentage local employees,, ,78%,65%
+,,Abstract Bold,Exploration Mexico,, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,8,6
+,Actual,,Percentage local employees,, ,47%,67%
+,,Abstract Bold,Administration (Head Office),, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,191,245
+,Actual,,Percentage local employees,, ,98%,98%
+,,Abstract Bold,Administration Regional CSD,, ,,
+,Actual,,Total indigenous employees,, ,11,1
+,Actual,,Percentage indigenous employees,, ,5%,0%
+,Actual,,Total local employees,, ,180,194
+,Actual,,Percentage local employees,, ,87%,81%
+,,Abstract Bold,KLG Head Office,, ,,
+,Actual,,Total indigenous employees,, ,0,
+,Actual,,Percentage indigenous employees,, ,0%,
+,Actual,,Total local employees,, ,29,
+,Actual,,Percentage local employees,, ,100%,
+,,Abstract Bold,Nunavut Service Group (NSG),, ,,
+,Actual,,Total indigenous employees,, ,,11
+,Actual,,Percentage indigenous employees,, ,,7%
+,Actual,,Total local employees,, ,,113
+,Actual,,Percentage local employees,, ,,76%
+,,Abstract Bold,Northern Territory (NT),, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,30,27
+,Actual,,Percentage local employees,, ,91%,84%
+,,Abstract Bold,Cdn Regional Office(s),, ,,
+,Actual,,Total indigenous employees,, ,2,1
+,Actual,,Percentage indigenous employees,, ,3%,1%
+,Actual,,Total local employees,, ,69,79
+,Actual,,Percentage local employees,, ,96%,100%
+,,Abstract Bold,Aus Regional Office(s),, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,9,13
+,Actual,,Percentage local employees,, ,64%,72%
+,,Abstract Bold,Aus Exploration,, ,,
+,Actual,,Total indigenous employees,, ,0,0
+,Actual,,Percentage indigenous employees,, ,0%,0%
+,Actual,,Total local employees,, ,11,8
+,Actual,,Percentage local employees,, ,69%,67%
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,,Total indigenous employees,, ,694,649
+,Actual,,Percentage indigenous employees,, ,7%,6%
+,Actual,,Total local employees,, ,"5,737","6,909"
+,Actual,,Percentage local employees,, ,61%,66%
+,,,,, ,,
+,,Abstract Bold,Incidents of Discrimination and Corrective Actions Taken,,406-1,,
+,,Abstract Bold,Agnico Eagle,, ,,
+,Actual,, of grievances about discrimination filed through a formal mechanism,, ,7,32
+,Actual,, of grievances about discrimination investigated by the organization,, ,10,31
+,Actual,, of remediation plans implemented as a result of an investigation,, ,9,26
+,Actual,," of grievances resolved, completed or withdrawn at the end of the year",, ,10,32
+,,Abstract Bold,CDN Regional Office(s),, ,,
+,Actual,, of grievances about discrimination filed through a formal mechanism,, ,,1
+,Actual,, of grievances about discrimination investigated by the organization,, ,,1
+,Actual,, of remediation plans implemented as a result of an investigation,, ,,1
+,Actual,," of grievances resolved, completed or withdrawn at the end of the year",, ,,1
+,,,,, ,,
+,,Abstract Bold,Community Response Mechanisms,,MM7,,
+,Actual,Bold,Total  of community grievances or complaints by category,, ,175,214
+,Actual,,Environmental,, ,4,1
+,Actual,,Health & safety,, ,22,4
+,Actual,,Social and communities,, ,5,9
+,Actual,,Economic opportunities (e.g. employment & procurement),, ,26,27
+,Actual,,Indigenous rights,, ,1,0
+,Actual,,Land and resource use,, ,0,1
+,Actual,,Mining practices and activities,, ,117,172
+,Actual,, of grievances or complaints investigated,, ,176,213
+,Actual,, of remediation plans implemented as a result of an investigation,, ,16,77
+,Actual,, of grievances or complaints resolved completed or withdrawn at the end of the year,, ,172,207
+,Actual,, of grievances not addressed within 30 days,, ,,0
+,Actual,, of complainants during the year,, ,,107
+,,,,, ,,
+,,Abstract Bold,Significant Disputes or Incidents Relating to Land Use Customary Rights or Local Communities and Indigenous Peoples,, ,,
+,Actual,,Total  of significant disputes,, ,0,0
+,Actual,, of incidents investigated,, ,0,0
+,Actual,, of remediation plans implemented as a result of an investigation,, ,0,0
+,Actual,, of remediation plan results reviewed by internal management,, ,0,0
+,Actual,, of disputes or incidents resolved completed or withdrawn at the end of the year,, ,0,0
+,Actual,,Descriptions of any disputes or incidents,,N/A,,N/A
+,,,,, ,,
+,,Abstract Bold,Communities,, ,,
+,Actual,, of Significant Disputes ,, ,0,1
+,Actual,,Operations payments to local suppliers,, ,1.36,1.58
+,,,,, ,,
+,,Abstract Bold,Proportion of Senior Management Hired from the Local Community,,202-2,,
+,,Abstract Bold,% Senior Management Positions Filled by Locals,, ,,
+,Actual,,Agnico Eagle,, ,70%,73%
+,Actual,,LaRonde,, ,100%,100%
+,Actual,,Goldex,, ,92%,85%
+,Actual,,CMC,, ,,89%
+,Actual,,Kittilä,, ,70%,71%
+,Actual,,La India,, ,0%,0%
+,Actual,,Pinos Altos,, ,0%,9%
+,Actual,,Meadowbank,, ,5%,0%
+,Actual,,Meliadine,, ,5%,0%
+,Actual,,Hope Bay,, ,0%,0%
+,Actual,,Macassa,, ,68%,76%
+,Actual,,Detour Lake,, ,42%,35%
+,Actual,,Fosterville,, ,82%,80%
+,,,,, ,,
+,,Abstract Bold,Proportion of Operation Spending on Local Suppliers (000 USD),,204-1,,
+,,Abstract Bold,Agnico Eagle,, ,,
+$,Thousands,,Total purchases from local region ,, ,"1,361,026","1,873,471"
+$,Thousands,,Total purchases ,, ,"3,073,734","4,048,440"
+,Actual,,% Local spending,, ,44%,46%
+,,,,, ,,
+,,Abstract Bold,Direct Economic Value Generated and Distributed (000 USD,,201-1,,
+,,Abstract Bold,Australia,, ,,
+$,Thousands,,Economic value generated,, ,"687,219","552,468"
+$,Thousands,,Revenues,, ,"687,219","552,468"
+$,Thousands,,Economic value distributed,, ,"403,067","346,010"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"133,867","113,021"
+$,Thousands,,Capex,, ,"78,715","66,591"
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"45,274","45,451"
+$,Thousands,,Capex,, ,"24,457","20,884"
+$,Thousands,,Payments to providers of capital,, ,,194
+$,Thousands,,Income and resource taxes (Payments to government ),, ,"117,106","96,536"
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ,"284,153","206,457"
+,,Abstract Bold,Canada,, ,,
+$,Thousands,,Economic value generated,, ,"3,896,331","5,261,363"
+$,Thousands,,Revenues,, ,"3,896,331","5,261,363"
+$,Thousands,,Economic value distributed,, ,"5,116,745","3,630,629"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"1,464,657","1,496,001"
+$,Thousands,,Capex,, ,"1,030,156","1,024,109"
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"853,686","846,793"
+$,Thousands,,Capex,, ,"93,638","89,358"
+$,Thousands,,Payments to providers of capital,, ,,641
+$,Thousands,,Income and resource taxes (Payments to government ),, ,"119,186","162,502"
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ,"280,842","1,640,817"
+,,Abstract Bold,Finland,, ,,
+$,Thousands,,Economic value generated,, ,"407,669","448,719"
+$,Thousands,,Revenues,, ,"407,669","448,719"
+$,Thousands,,Economic value distributed,, ,"360,593","310,537"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"172,869","164,813"
+$,Thousands,,Capex,, ,"101,321","73,538"
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"50,188","52,108"
+$,Thousands,,Capex,, ,241,228
+$,Thousands,,Payments to providers of capital,, ,,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,"35,507","19,728"
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ,"47,075","138,182"
+,,Abstract Bold,Mexico,, ,,
+$,Thousands,,Economic value generated,, ,"339,525","364,359"
+$,Thousands,,Revenues,, ,"339,525","364,359"
+$,Thousands,,Economic value distributed,, ,"351,323","441,434"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"142,218","163,922"
+$,Thousands,,Capex,, ,"66,558","158,538"
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"118,696","106,728"
+$,Thousands,,Capex,, ,"1,783", (0)
+$,Thousands,,Payments to providers of capital,, ,,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,"21,146","11,420"
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ," (11,798)"," (441,434)"
+,,Abstract Bold,Netherlands,, ,,
+$,Thousands,,Economic value generated,, ,0,0
+$,Thousands,,Revenues,, ,0,0
+$,Thousands,,Economic value distributed,, ,87,117
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,87,117
+$,Thousands,,Capex,, ,0,0
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,0,0
+$,Thousands,,Capex,, ,0,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,0,0
+$,Thousands,,Other operating costs ,, ,0,0
+,Thousands,,Economic value retained,, , (87),117
+,,Abstract Bold,Sweden,, ,,
+$,Thousands,,Economic value generated,, ,0,0
+$,Thousands,,Revenues,, ,0,0
+$,Thousands,,Economic value distributed,, ,"1,941","2,085"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"1,397","1,234"
+$,Thousands,,Capex,, ,0,0
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,545,512
+$,Thousands,,Capex,, ,0,0
+$,Thousands,,Payments to providers of capital,, ,,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,0,338
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ," (1,941)"," (2,085)"
+,,Abstract Bold,Unites States,, ,,
+$,Thousands,,Economic value generated,, ,0,0
+$,Thousands,,Revenues,, ,0,0
+$,Thousands,,Economic value distributed,, ,"6,963","4,995"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"4,569","2,992"
+$,Thousands,,Capex,, ,0,0
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"2,394","2,003"
+$,Thousands,,Capex,, ,0,0
+$,Thousands,,Payments to providers of capital,, ,,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,0,0
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ," (6,963)","4,995"
+,,Abstract Bold,Barbados,, ,,
+$,Thousands,,Economic value generated,, ,0,0
+$,Thousands,,Revenues,, ,0,0
+$,Thousands,,Economic value distributed,, ," (2,348)","3,031"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ," (2,348)","3,031"
+$,Thousands,,Capex,, ,0,0
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,0,0
+$,Thousands,,Capex,, ,0,0
+$,Thousands,,Payments to providers of capital,, ,,0
+$,Thousands,,Income and resource taxes (Payments to government ),, ,0,0
+$,Thousands,,Other operating costs ,, ,0,0
+,Thousands,,Economic value retained,, ," (2,348)","3,031"
+,,Abstract Bold,Agnico Eagle,, ,,
+$,Thousands,,Economic value generated,, ,"5,330,745","6,626,909"
+$,Thousands,,Revenues,, ,"5,330,745","6,626,909"
+$,Thousands,,Economic value distributed,, ,"5,509,492","4,738,839"
+,,Abstract Bold,Payment to Suppliers,, ,,
+$,Thousands,,Opex,, ,"1,917,316","1,945,131"
+$,Thousands,,Capex,, ,"1,276,751","1,322,776"
+,,Abstract Bold,Employee Wages and Benefits ,, ,,
+$,Thousands,,Opex,, ,"1,070,783","1,053,596"
+$,Thousands,,Capex,, ,"120,119","110,469"
+$,Thousands,,Payments to providers of capital,, ,"815,489",835
+$,Thousands,,Income and resource taxes (Payments to government ),, ,"292,946","290,525"
+$,Thousands,,Community investments ,, ,"16,089","15,507"
+$,Thousands,,Other operating costs ,, ,0,0
+$,Thousands,,Economic value retained,, ,"591,282","1,550,080"
+,,,,, ,,
+,,Abstract Bold Color,Governance,, ,,
+,,Abstract Bold,Board,, ,,
+,Actual,,Total board of directors,, ,12,11
+,Actual,,Independent from management,, ,2,2
+,Actual,,Non-executive directors women (%),, ,40%,40%
+,Actual,,Non-executive directors women ,, ,4,
+,Actual,,Aboriginal directors of the non-executive directors (%),, ,10%,
+,Actual,, Aboriginal directors of the non-executive directors,, ,1,
+,Actual,,Women on the entire board of directors (%),, ,33%,36%
+,Actual,,Women on the entire board of directors,, ,4,4
+,Actual,,Aboriginal directors on the entire Board of Directors (%),, ,8%,9%
+,Actual,,Aboriginal directors on the entire Board of Directors,, ,1,
+,Actual,,Visible minorities on the entire board of directors (%),, ,8%,
+,Actual,,Visible minorities on the entire Board of Directors,, ,1,
+,Actual,,Racial/ethnically diverse members of the Board,, ,,1
+,Actual,,Racial/ethnically diverse members of the Board (%),, ,,9%
+,,,,, ,,
+,,Abstract Bold,Digital Privacy and Cybersecurity,, ,,
+,Actual,,Information security breaches,, ,0,0
+,,,,, ,,

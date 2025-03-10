@@ -1,0 +1,35 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Hope Bay Mine,,
+,Thousand,Indent,Hope Bay - Ore milled ('000 tonnes), -   , -   
+,Actual,Indent,Hope Bay - Grade gold (g/tonne), -   , -   
+,Actual,Indent,Hope Bay - Mill recoveries %, -   , -   
+,Actual,Indent,Hope Bay - Payable metal produced gold Oz, -   , -   
+,Actual,Indent,Hope Bay - Payable metal sold gold oz, -   , -   
+$,Thousand,Indent Bold,Revenue from Hope Bay mine, -   , -   
+,,Abstract bold color,Costs for Hope Bay,,
+$,Thousand,Indent,Hope Bay - Production costs, -   , -   
+$,Thousand,,Cash Operating Profit, -   , -   
+$,Thousand,Indent,Hope Bay - Amortization, -   , (170)
+$,Thousand,,Operating profit post amortization, -   ,170
+,,Abstract Bold,Hope Bay - Cost Reconciliation:,,
+$,Thousand,,Hope Bay - Production costs, -   , -   
+$,Thousand,Indent,Hope Bay - By-product metal revenues, -   , -   
+$,Thousand,Indent,Hope Bay - Inventory and other adjustments, -   , -   
+$,Thousand,Indent,Hope Bay - Non-cash reclamation provision,,
+$,Thousand,Indent,Hope Bay - Cash operating costs, -   , -   
+$,Actual,Indent Bold,Hope Bay - Total cash costs ( Per ounce of commercial production), -   , -   
+C$,Thousand,Indent,Hope Bay - Minesite operating costs (C$), -   , -   
+C$,Actual,Indent,Hope Bay - Minesite costs per tonne (C$), -   , -   
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"4,573","14,980"
+$,Thousand,,Total Sustaining Capital Expenditures,147, -   
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"4,426", -   
+$,Thousand,,Capitalized Exploration, -   , -   
+$,Thousand,,Depreciable Assets,"183,754",
+$,Actual,,Total Cash Costs (US$/oz), -   , -   
+,,,,,
+,,,,,
+,,,,,

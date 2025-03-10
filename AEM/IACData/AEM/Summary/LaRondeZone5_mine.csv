@@ -1,0 +1,42 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,LaRonde Zone 5 (LZ5) Mine,,
+,Thousand,,LZ5 - Ore milled ('000 tonnes),"1,156.9",332.1
+,Actual,Indent,LZ5 - Grade gold (g/tonne),2.01,1.86
+,Actual,Indent,LZ5 - Mill recoveries %,93.80%,93.10%
+,Actual,Indent,LZ5 - Payable metal produced gold Oz,"70,657","18,292"
+,Actual,Indent,LZ5 - Payable metal sold gold oz,"68,174","18,920"
+$,Thousand,Indent Bold, Revenue from LZ5 mine,"130,711","47,363"
+,,Abstract bold color Indent, Costs for LZ5,,
+$,Thousand,Indent, LZ5 - Production costs,"81,624","18,916"
+$,Thousand,,Cash Operating Profit,"49,087","28,447"
+$,Thousand,Indent,LZ5 - Amortization,"13,333","4,126"
+$,Thousand,,Operating profit post amortization,"35,754","24,321"
+,,Abstract bold,LZ5 - Cost Reconciliation:,,
+$,Thousand,,LZ5 - Production costs,"81,624","18,916"
+$,Thousand,Indent,LZ5 - By-product metal revenues,-711,-274
+$,Thousand,Indent,LZ5 - Inventory and other adjustments,199,"4,868"
+$,Thousand,Indent,     LZ5- Non-cash reclamation provision,,
+$,Thousand,Indent,LZ5 - Cash operating costs,"81,112","23,510"
+$,Actual,Abstract bold,  LZ5 - Total cash costs ( Per ounce of commercial production),"1,148","1,285"
+C$,Thousand,Indent,LZ5 - Minesite operating costs (C$),"105,274","30,812"
+C$,Actual,Indent,LZ5 - Minesite costs per tonne (C$),91,93
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,Indent,Total Capital Expenditures,"33,318","9,765"
+$,Thousand,Indent,Total Sustaining Capital Expenditures,"9,250","5,069"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"33,318","9,441"
+$,Thousand,,Capitalized Exploration,"1,003",324
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,25%,24%
+,Actual,,Contractors,27%,25%
+,Actual,,Energy,6%,5%
+,Actual,,Chemical,1%,2%
+,Actual,,Consumables/Other,41%,44%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"119,252",
+$,Actual,,Total Cash Costs (US$/oz),"1,148","1,285"
+,,,,,
+,,,,,
+,,,,,

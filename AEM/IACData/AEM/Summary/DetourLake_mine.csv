@@ -1,0 +1,42 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Detour Lake Mine,,
+,Thousand,Indent,Detour Lake - Ore Milled (000's tonnes),"25,434.9","7,082.3"
+,Actual,Indent,Detour Lake - Grade gold (g/tonne),0.91,0.85
+,Actual,Indent,Detour Lake - Mill Recovery %,90.9%,89.8%
+,Actual,Indent,Detour Lake - Payable metal produced gold Oz,"677,446","173,891"
+,Actual,Indent,Detour Lake - Payable metal sold gold Oz,"650,405","176,585"
+$,Thousand,Indent Bold,Revenue from Detour Lake mine,"1,262,839","437,920"
+,,Abstract bold color,Costs for Detour Lake,,
+$,Thousand,Indent,Detour Lake - Production costs,"453,498","127,159"
+$,Thousand,,Cash operating profit,"809,341","310,761"
+$,Thousand,Indent,Detour Lake - Amortization,"161,819","47,073"
+$,Thousand,Indent Bold,Operating profit post amortization,"647,522","263,688"
+,,,,,
+,,Abstract bold,Detour Lake - Cost Reconciliation,,
+$,Thousand,Indent,Detour Lake - Production costs,"453,498","127,159"
+$,Thousand,Indent,Detour Lake - By-product metal revenues,"-2,073",-757
+$,Thousand,Indent,Detour Lake - Inventory and other adjustments,"46,248","9,247"
+$,Thousand,Indent,Detour Lake - Cash operating costs,"497,673","135,649"
+$,Actual,Indent Bold,Detour Lake - Total cash costs ( Per ounce of commercial production),735,779
+C$,Thousand,Indent,Detour Lake - Minesite operating costs (C$),"661,605","180,952"
+C$,Actual,Indent,Detour Lake - Minesite costs per tonne (C$),26,26
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"390,153","138,888"
+$,Thousand,,Total Sustaining Capital Expenditures,"249,765","77,638"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"390,153","129,837"
+$,Thousand,,Capitalized Exploration,"32,515","9,051"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,22%,21%
+,Actual,, Contractors,15%,20%
+,Actual,,Energy,16%,15%
+,Actual,,Chemical,9%,10%
+,Actual,,Consumables/Other,38%,34%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"6,305,185",
+$,Actual,,Total Cash Costs (US$/oz),735,779
+,,,,,
+,,,,,
+,,,,,

@@ -1,0 +1,47 @@
+Currency,Unit,,Description,FY 14,FY 15,FY 16,FY 17,FY 18,FY 19,FY 20,FY 21,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019,12/31/2020,12/31/2021,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),02/13/2015,02/13/2016,02/17/2017,02/16/2018,02/19/2019,02/18/2020,02/11/2021,02/23/2022,02/16/2023,02/15/2024
+,,Abstract bold color,La India Mine, ,,,,,,,,,
+,Thousand,Indent,Ore Stacked on Heap Leach ('000 tonnes),"4,773.2","5,371.4","5,837.4","5,965.2","6,127.5","5,402.4","5,525.5","6,018.3","5,101.8","3,009.9"
+,,Abstract Indent Bold,La India - Grade, ,,,,,,,,,
+,Actual,Indent,La India - Grade gold (g/tonne),0.98,0.95,0.81,0.69,0.72,0.68,0.67,0.56,0.59,0.87
+,Actual,Indent,La India - Grade silver (g/tonne),12.77,14.90,20.81,3.54,4.66,2.80,1.60,1.71,3.48,3.60
+,,Abstract Indent Bold,La India Heap Leach - Payable metals produced, ,,,,,,,,,
+,Actual,Indent,La India Heap Leach - Payable gold oz,"75,093","104,362","115,162","101,150","101,357","82,190","84,974","63,529","74,672","75,904"
+,Thousand,Indent,La India Heap Leach - Payable silver oz ('000),178,263,486,313,180,133,65,48,77,66
+,,Abstract Indent Bold,La India Heap Leach - Payable metals sold, ,,,,,,,,,
+,Actual,Indent,La India Heap Leach - Payable gold oz sold,"72,940","105,050","109,283","99,691","98,464","81,539","82,003","64,888","73,875","77,343"
+,Actual,Indent,La India Heap Leach - Payable silver oz sold ('000),169,261,452,316,176,140,66,50,78,65
+$,Thousand,Indent+Bold,Revenue from La India Mine,"93,512","124,679","142,529","129,949","126,518","114,276","147,299","117,875","135,219","151,483"
+,,Abstract bold color,Cost for La India, ,,,,,,,,,
+$,Thousand,,La India - Production costs,"36,949","49,578","49,745","61,133","69,095","65,638","68,137","60,381","76,226","96,490"
+$,Thousand,,Cash Operating Margin,"56,563","75,101","92,784","68,816","57,423","48,638","79,162","57,494","58,993","54,993"
+$,Thousand,,Amortization for La India,"43,356","81,430","72,043","46,918","48,329","40,591","44,671","45,910","49,373","37,140"
+$,Thousand,Bold,Operating profit post amortization,"13,207","-6,329","20,741","21,898","9,094","8,047","34,491","11,584","9,620","17,853"
+,,Abstract Bold,La India - Cost Reconciliation, ,,,,,,,,,
+$,Thousand,,La India - Production costs,"36,949","49,578","49,745","61,133","69,095","65,638","68,137","60,381","76,226","96,490"
+$,Thousand,,La India - By-product metal revenues,"-3,230","-4,058","-8,453","-5,392","-2,777","-2,184","-1,317","-1,298","-1,689","-1,566"
+$,Thousand,,La India - Inventory and other adjustments,"1,172",-28,"4,189","2,958","3,084","4,166",141,556,"4,297",-751
+$,Thousand,,La India - Non-cash reclamation provision, ,,,,,,,,,
+$,Thousand,,La India - Cash operating costs,"34,891","45,492","45,481","58,699","69,402","67,260","66,961","59,639","78,834","94,173"
+$,Actual,Bold,La India - Total cash costs (Per ounce of commercial production),487,436,395,580,685,823,788,939,"1,056","1,241"
+$,Thousand,,La India - Minesite operating costs (USD$),"37,727","48,921","52,654","62,678","71,204","68,229","67,242","60,479","79,824","95,155"
+$,Actual,,La India - Minesite costs per tonne (USD$),8,9,9,11,12,13,12,10,16,32
+,,Abstract bold color Indent,Capital Expenditures, ,,,,,,,,,
+$,Thousand,,Total Capital Expenditures, ,"23,379","10,507","10,783","9,197","15,367","22,707","19,500","15,092",100
+$,Thousand,,Total Sustaining Capital Expenditures, ,"23,379","10,021","8,159","7,345","10,851","13,780","10,117","8,963",100
+,,Abstract bold color Indent,Supplementary Data,,,,,,,,,,
+$,Thousand,,Capital Expenditures,"18,739","20,278","6,844","9,263","8,524","14,719","21,663","19,383","15,084",100
+$,Thousand,,Capitalized Exploration,"3,952","3,101","3,663","1,520",673,648,"1,044",117,8, -   
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,,,,,,
+,Actual,,Labour,27%,19%,17%,17%,11%,17%,16%,17%,16%,20%
+,Actual,, Contractors,14%,8%,12%,11%,6%,9%,7%,7%,8%,8%
+,Actual,,Energy,25%,18%,15%,19%,21%,20%,18%,19%,18%,20%
+,Actual,,Chemical,8%,9%,14%,17%,25%,19%,19%,15%,19%,18%
+,Actual,,Consumables/Other,26%,46%,41%,36%,37%,35%,40%,42%,39%,34%
+,Actual,Bold,Total,100%,100%,99%,100%,100%,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,"391,075","324,565","283,250","258,094","217,370","191,562","160,013","122,743","99,564","28,830"
+$,Actual,,Total Cash Costs (US$/oz),487,436,395,580,685,823,788,939,"1,056","1,241"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

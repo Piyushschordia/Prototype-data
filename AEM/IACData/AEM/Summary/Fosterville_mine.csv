@@ -1,0 +1,42 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Fosterville Mine,,
+,Thousand,Indent,Fosterville - Ore Milled (000's tonnes),650.7,245.7
+,Actual,Indent,Fosterville - Grade gold (g/tonne),13.61,8.61
+,Actual,Indent,Fosterville - Mill Recovery %,97.5%,96.2%
+,Actual,Indent,Fosterville - Payable metal produced gold Oz,"277,694","65,532"
+,Actual,Indent,Fosterville - Payable metal sold gold Oz,"284,250","67,198"
+$,Thousand,Indent Bold,Revenue from Fosteville mine,"552,468","167,368"
+,,Abstract bold color,Costs for Fosterville,,
+$,Thousand,Indent,Fosterville - Production costs,"131,298","44,346"
+$,Thousand,,Cash operating profit,"421,170","123,022"
+$,Thousand,Indent,Fosterville - Amortization,"88,044","28,717"
+$,Thousand,Bold,Operating profit post amortization,"333,126","94,305"
+,,,,,
+,,Abstract bold,Fosterville - Cost Reconciliation,,
+$,Thousand,Indent,Fosterville - Production costs,"131,298","44,346"
+$,Thousand,Indent,Fosterville - By-product metal revenues,-397,-135
+$,Thousand,Indent,Fosterville - Inventory and other adjustments,"4,494","-1,580"
+$,Thousand,Indent,Fosterville - Cash operating costs,"135,395","42,631"
+$,Actual,Indent Bold,Fosterville - Total cash costs ( Per ounce of commercial production),488,651
+C$,Thousand,Indent,Fosterville - Minesite operating costs (A$),"195,766","64,181"
+C$,Thousand,Indent,Fosterville - Minesite costs per tonne (A$),301,261
+,,Abstract bold color indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"67,326","20,442"
+$,Thousand,,Total Sustaining Capital Expenditures,"33,751","9,509"
+,,Abstract bold color indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"67,326","17,911"
+$,Thousand,,Capitalized Exploration,"20,113","2,531"
+,,Abstract bold color indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,41%,32%
+,Actual,, Contractors,10%,13%
+,Actual,,Energy,9%,7%
+,Actual,,Chemical,2%,4%
+,Actual,,Consumables/Other,38%,44%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"864,350",
+$,Actual,,Total Cash Costs (US$/oz),488,651
+,,,,,
+,,,,,
+,,,,,

@@ -1,0 +1,13 @@
+.form-group.with-search-icon {
+  display: flex;
+  align-items: center;
+}
+.form-group.with-search-icon > .form-control {
+  padding-right: 33px;
+}
+.form-group.with-search-icon > span.icon-search {
+  margin-left: -23px;
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=bs_custom.css.map */

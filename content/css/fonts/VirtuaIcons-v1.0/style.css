@@ -1,0 +1,192 @@
+@font-face {
+  font-family: 'VirtuaIcons';
+  src:  url('fonts/VirtuaIcons.eot?rtem66');
+  src:  url('fonts/VirtuaIcons.eot?rtem66#iefix') format('embedded-opentype'),
+    url('fonts/VirtuaIcons.ttf?rtem66') format('truetype'),
+    url('fonts/VirtuaIcons.woff?rtem66') format('woff'),
+    url('fonts/VirtuaIcons.svg?rtem66#VirtuaIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'VirtuaIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-checkmark1:before {
+  content: "\e930";
+}
+.icon-information-solid:before {
+  content: "\e90c";
+}
+.icon-information-outline:before {
+  content: "\e90d";
+}
+.icon-close:before {
+  content: "\e901";
+}
+.icon-checkmark:before {
+  content: "\e92f";
+}
+.icon-expand:before {
+  content: "\e921";
+}
+.icon-pencil1:before {
+  content: "\e90f";
+}
+.icon-pencilBold:before {
+  content: "\e90e";
+}
+.icon-close-bold:before {
+  content: "\e904";
+}
+.icon-arrow-right:before {
+  content: "\e900";
+}
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-arrow_triangle_down:before {
+  content: "\ea1c";
+}
+.icon-triangle_up:before {
+  content: "\ea1e";
+}
+.icon-play:before {
+  content: "\ea1f";
+}
+.icon-triangle-forward:before {
+  content: "\ea1d";
+}
+.icon-arrow-left:before {
+  content: "\ea38";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-chevron-down1:before {
+  content: "\e92d";
+}
+.icon-chevron-up1:before {
+  content: "\e92e";
+}
+.icon-Restatement:before {
+  content: "\e92a";
+}
+.icon-cog:before {
+  content: "\e928";
+}
+.icon-bar_chart:before {
+  content: "\e927";
+}
+.icon-search:before {
+  content: "\e918";
+}
+.icon-bar-chart:before {
+  content: "\e90a";
+}
+.icon-file-pdf-o:before {
+  content: "\e906";
+}
+.icon-Download_Excel:before {
+  content: "\e91c";
+}
+.icon-Download:before {
+  content: "\e91b";
+}
+.icon-Financial_Statement:before {
+  content: "\e919";
+}
+.icon-Library:before {
+  content: "\e91a";
+}
+.icon-url:before {
+  content: "\e912";
+}
+.icon-chart:before {
+  content: "\e913";
+}
+.icon-doc-excel:before {
+  content: "\e914";
+}
+.icon-doc-pdf:before {
+  content: "\e915";
+}
+.icon-news:before {
+  content: "\e916";
+}
+.icon-presentation:before {
+  content: "\e917";
+}
+.icon-chevron-down:before {
+  content: "\e92b";
+}
+.icon-chevron-up:before {
+  content: "\e92c";
+}
+.icon-note_add:before {
+  content: "\e908";
+}
+.icon-event_note:before {
+  content: "\e926";
+}
+.icon-cloud_download:before {
+  content: "\e923";
+}
+.icon-export:before {
+  content: "\e922";
+}
+.icon-push_pin:before {
+  content: "\e91d";
+}
+.icon-chevron-right:before {
+  content: "\e910";
+}
+.icon-chevron-left:before {
+  content: "\e911";
+}
+.icon-menu:before {
+  content: "\e905";
+}
+.icon-equalizer:before {
+  content: "\e929";
+}
+.icon-calendar:before {
+  content: "\e925";
+}
+.icon-download:before {
+  content: "\e924";
+}
+.icon-resize:before {
+  content: "\e920";
+}
+.icon-unpin:before {
+  content: "\e91e";
+}
+.icon-pin1:before {
+  content: "\e91f";
+}
+.icon-document-diagrams:before {
+  content: "\e909";
+}
+.icon-document-file-pdf:before {
+  content: "\e907";
+}
+.icon-stats:before {
+  content: "\e90b";
+}
+.icon-close-medium:before {
+  content: "\e903";
+}

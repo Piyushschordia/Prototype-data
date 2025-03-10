@@ -1,0 +1,39 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Canadian Malartic Mine,,
+,Thousand,Indent,Canadian Malartic - Ore Milled (000's tonnes),"17,332.9","4,861.9"
+,Actual,Indent,Canadian Malartic - Grade gold (g/tonne),1.17,0.98
+,Actual,Indent,Canadian Malartic - Mill Recovery %,92.8%,91.8%
+,Actual,Indent,Canadian Malartic - Payable metal produced gold Oz,"603,955","141,392"
+,Thousand,Indent,Canadian Malartic - Payable metal produced silver Oz ('000),311,63
+,Actual,Indent,Canadian Malartic - Payable metal sold gold Oz,"570,558","139,694"
+,Thousand,Indent,Canadian Malartic - Payable metal sold silver Oz ('000),277,58
+$,Thousand,Indent Bold,Revenue from Canadian Malartic mine,"1,124,480","345,969"
+,,Abstract bold color,Costs for Canadian Malartic,,
+$,Thousand,Indent,Canadian Malartic - Production costs,"465,814","128,984"
+$,Thousand,,Cash operating profit,"658,666","216,985"
+$,Thousand,Indent,Canadian Malartic - Amortization,"340,737","91,276"
+$,Thousand,Bold,Operating profit post amortization,"317,929","125,709"
+,,, ,,
+,,Abstract bold,Canadian Malartic - Cost Reconciliation,,
+$,Thousand,Indent,Canadian Malartic - Production costs,"465,814","128,984"
+$,Thousand,Indent,Canadian Malartic - By-product metal revenues,"-6,732","-1,777"
+$,Thousand,Indent,Canadian Malartic - Inventory and other adjustments,"38,440","17,676"
+$,Thousand,Indent,Canadian Malartic - Stripping costs,,
+$,Thousand,Indent,Canadian Malartic - Non-cash reclamation provision,,
+$,Thousand,Indent,Canadian Malartic - Cash operating costs,"497,522","144,883"
+$,Actual,Bold Indent,Canadian Malartic - Total cash costs ( Per ounce of commercial production),824,"1,025"
+C$,Thousand,Indent,Canadian Malartic - Minesite operating costs (C$),"680,272","197,484"
+C$,Actual,Indent,Canadian Malartic - Minesite costs per tonne (C$),39,41
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"251,541","80,123"
+$,Thousand,,Total Sustaining Capital Expenditures,"91,028","36,789"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"251,541","78,613"
+$,Thousand,,Capitalized Exploration,"9,447","1,510"
+$,Thousand,,Depreciable Assets,"656,179",
+$,Actual,,Total Cash Costs (US$/oz),824,"1,025"
+,,,,,
+,,,,,
+,,,,,

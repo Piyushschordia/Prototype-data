@@ -1,0 +1,39 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Macassa Mine,,
+,Thousand,Indent,Macassa - Ore Milled (000's tonnes),441.6,134.0
+,Actual,Indent,Macassa - Grade gold (g/tonne),16.47,16.84
+,Actual,Indent,Macassa - Mill Recovery %,97.7%,97.5%
+,Actual,Indent,Macassa - Payable metal produced gold Oz,"228,535","70,727"
+,Actual,Indent,Macassa - Payable metal sold gold Oz,"222,530","65,000"
+$,Thousand,Indent Bold,Revenue from Macassa mine,"431,827","162,334"
+,,Abstract bold color,Costs for Macassa,,
+$,Thousand,Indent,Macassa - Production costs,"155,046","48,086"
+$,Thousand,,Cash operating profit,"276,781","114,248"
+$,Thousand,Indent,Macassa - Amortization,"155,944","40,079"
+$,Thousand,Bold,Operating profit post amortization,"120,837","74,169"
+,,,,,
+,,Abstract bold,Macassa - Cost Reconciliation,,
+$,Thousand,Indent,Macassa - Production costs,"155,046","48,086"
+$,Thousand,Indent,Macassa - By-product metal revenues, (649), (442)
+$,Thousand,Indent,Macassa - Inventory and other adjustments,"12,550","5,435"
+$,Thousand,Indent,Macassa - Cash operating costs,"166,947","53,079"
+$,Actual,Indent Bold,Macassa - Total cash costs ( Per ounce of commercial production),731,750
+C$,Thousand,Indent,Macassa - Minesite operating costs (C$),"222,281","72,245"
+C$,Thousand,Indent,Macassa - Minesite costs per tonne (C$),503,539
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"118,458","47,722"
+$,Thousand,,Total Sustaining Capital Expenditures,"43,333","12,651"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"118,458","39,750"
+$,Thousand,,Capitalized Exploration,"27,801","7,972"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,43%,47%
+,Actual,, Contractors,12%,13%
+,Actual,,Energy,6%,6%
+,Actual,,Chemical,2%,2%
+,Actual,,Consumables/Other,37%,32%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"1,407,704",
+$,Actual,,Total Cash Costs (US$/oz),731,750

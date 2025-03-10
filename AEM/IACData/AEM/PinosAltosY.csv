@@ -1,0 +1,112 @@
+Currency,Unit,,Description,FY 09,FY 10,FY 11,FY 12,FY 13,FY 14,FY 15,FY 16,FY 17,FY 18,FY 19,FY 20,FY 21,FY 22,FY 23
+,,,Period Ended On (MM/DD/YYYY),12/31/2009,12/31/2010,12/31/2011,12/31/2012,12/31/2013,12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019,12/31/2020,12/31/2021,12/31/2022,12/31/2023
+,,,Reported Date (MM/DD/YYYY),02/13/2010,02/13/2011,02/13/2012,03/26/2013,02/13/2014,02/13/2015,02/13/2016,02/17/2017,02/16/2018,02/19/2019,02/18/2020,02/11/2021,02/23/2022,02/16/2023,02/15/2024
+,,Abstract bold color,Pinos Altos Mine, ,,,,,,,,,,,,,,
+,,Abstract Bold+Indent,Mill, ,,,,,,,,,,,,,,
+,Thousand,Indent,Pinos Altos - Ore milled ('000 tonnes),198.2,"1,327.5","1,740.8","1,837.3","1,920.5","1,952.6","1,993.7","1,982.1","2,023.1","1,945.0","1,903.2","1,658.7","1,891.7","1,510.4","1,656.5"
+,,Abstract Bold+Indent,Pinos Altos - Grade (at mill), ,,,,,,,,,,,,,,
+,Actual,Indent,Pinos Altos - Grade gold (g/tonne),2.07,2.88,2.86,2.97,2.82,2.64,3.05,3.04,2.86,2.96,2.65,2.25,2.20,2.07,1.92
+,Actual,Indent,Pinos Altos - Grade silver (g/tonne),48.74,64.99,65.73,82.29,82.43,68.90,79.93,79.88,76.24,69.00,60.02,51.26,45.33,41.72,46.45
+,,Abstract Bold+Indent,Pinos Altos - Mill Recoveries, ,,,,,,,,,,,,,,
+,Actual,Indent,Pinos Altos - Mill Recoveries Gold %,92.10%,93.54%,93.67%,93.99%,94.75%,94.61%,94.90%,94.90%,94.30%,94.20%,94.40%,93.30%,94.20%,96.00%,95.60%
+,Actual,Indent,Pinos Altos - Mill Recoveries Silver %,34.20%,40.19%,47.37%,44.13%,43.90%,38.34%,45.60%,47.50%,50.10%,53.50%,56.60%,58.10%,46.10%,50.10%,46.60%
+,Actual,,Pinos Altos- Payable metals Produced, ,,,,,,,,,,,,,,
+,Actual,,Pinos Altos - Payable metals Produced Gold Oz (mill),"11,881","115,667","149,849","165,055","165,262","156,900","185,269","183,580","174,891","174,554","153,208","112,024","125,823","96,522","97,642"
+,Thousand,,Pinos Altos - Payable metals Produced Silver Oz ('000) (mill),101,"1,103","1,728","2,124","2,250","1,657","2,329","2,416","2,483","2,311","2,140","1,592","1,280","1,014","1,153"
+,,Abstract Bold,Pinos Altos Heap Leach, ,,,,,,,,,,,,,,
+,Thousand,,Ore Stacked on Heap Leach ('000 tonnes),101.0,991.0,"1,215.0","1,025.0",805.0,567.8,384.7,278.1,284.8,273.0,103.5,137.7,7.8, -   , -   
+,Actual,,Pinos Altos Heap Leach - Grade, ,,,,,,,,,,,,,,
+,Actual,,Pinos Altos Heap Leach - Grade gold (g/tonne),1.08,0.68,0.65,0.74,0.71,0.78,0.75,0.92,0.91,0.72,0.56,0.67,0.64, -   , -   
+,Actual,,Pinos Altos Heap Leach - Grade silver (g/tonne),24.80,19.76,17.35,24.81,22.94,20.73,21.01,28.16,29.97,27.97,7.60,9.63,12.01, -   , -   
+,Actual,,Pinos Altos Heap Leach - Payable metals Produced, ,,,,,,,,,,,,,,
+,Actual,,Pinos Altos Heap Leach - Payable metals Produced Gold Oz,"4,308","14,764","16,309","18,607","16,511","14,119","7,705","9,193","5,968","6,503","1,916","2,774","1,109", -   , -   
+,Thousand,,Pinos Altos Heap Leach - Payable metals Produced Silver Oz ('000),15,82,96,113,116,74,55,89,52,57,21,14,5, -   , -   
+,,Abstract bold color,Creston Mascota Heap Leach, ,,,,,,,,,,,,,,
+,Thousand,,Ore Stacked on Heap Leach ('000 tonnes), ,118.3,"1,553.6","1,532.4","1,276.2","1,793.8","2,098.8","2,119.2","2,195.7","1,422.4","1,066.9",525.7, -   , -   , -   
+,Actual,,Creston Mascota Heap Leach - Grade, ,,,,,,,,,,,,,,
+,Actual,,Creston Mascota Heap Leach - Grade gold (g/tonne), ,1.48,1.51,1.74,1.43,1.30,1.34,1.12,1.23,1.03,1.87,2.00, -   , -   , -   
+,Actual,,Creston Mascota Heap Leach - Grade silver (g/tonne), ,7.00,11.00,15.74,17.63,15.25,16.93,12.45,11.11,13.19,43.64,42.17, -   , -   , -   
+,Actual,,Creston Mascota Mill - Payable metals Produced, ,,,,,,,,,,,,,,
+,Actual,,Creston Mascota Heap Leach - Payable metals Produced Gold Oz, ,666,"38,222","51,175","34,027","47,842","54,703","47,296","48,384","40,180","48,380","38,599","12,801","2,630",638
+,Thousand,,Creston Mascota Heap Leach - Payable metals Produced Silver Oz ('000), ,1,27,74,46,88,159,201,281,310,580,558,105,7,1
+,,Abstract bold color,Pinos Altos & Creston Mascota - Payable metals Produced, ,,,,,,,,,,,,,,
+,Actual,Indent,Pinos Altos - Payable metals Produced Gold Oz (mill & heap leach),"16,189","131,097","204,380","234,837","215,800","171,019","192,974","192,773","180,859","181,057","155,124","114,798","126,932","96,522","97,642"
+,Thousand,Indent,Pinos Altos - Payable metals Produced Silver Oz ('000) (mill & heap leach),116,"1,186","1,851","2,311","2,412","1,731","2,384","2,505","2,535","2,368","2,161","1,607","1,285","1,014","1,153"
+,Actual,,Creston Mascota - Payable metals Produced Gold Oz (heap leach), ,,,,,"47,842","54,703","47,296","48,384","40,180","48,380","38,599","12,801","2,630",638
+,Thousand,,Creston Mascota - Payable metals Produced Silver Oz ('000) (heap leach), ,,,,,88,159,201,281,310,580,558,105,7,1
+,,Abstract bold color,Pinos Altos & Creston Mascota - Payable metals Sold, ,,,,,,,,,,,,,,
+,Actual,Indent,Pinos Altos - Payable metals Sold Gold Oz,"12,529","122,514","204,239","229,984","214,920","176,468","186,580","199,462","173,026","185,444","155,750","118,603","127,106","99,033","96,134"
+,Thousand,Indent,Pinos Altos - Payable metals Sold Silver Oz ('000),38,"1,137","1,858","2,235","2,411","1,823","2,289","2,587","2,397","2,442","2,158","1,698","1,295","1,035","1,123"
+,Actual,,Creston Mascota - Payable metals Sold Gold Oz, ,,,,,"46,698","55,844","48,312","47,251","39,592","50,605","39,610","13,684","2,344", -   
+,Thousand,,Creston Mascota - Payable metals Sold Silver Oz ('000), ,,,,,84,156,193,265,301,575,574,128,10, -   
+,,, , ,,,,,,,,,,,,,,
+$,Thousand,,Revenue from Pinos Altos Mine, ,,,,,"251,783","250,909","294,377","257,905","270,855","249,577","244,283","259,446","199,830","212,876"
+$,Thousand,,Revenue from Creston Mascota Mine, ,,,,,"59,573","66,472","62,967","63,798","54,673","78,023","77,762","27,784","4,476", -   
+$,Thousand,bold,Revenue from Pinos Altos & Creston Mascota,"14,182","175,637","378,329","450,664","344,725","311,356","317,381","357,344","321,703","325,528","327,600","322,045","287,230","204,306","212,876"
+,,Abstract bold color,Costs for Pinos Altos (combined with Creston Mascota - historical), ,,,,,,,,,,,,,,
+$,Thousand,Indent,Pinos Altos - Production costs,"11,819","90,293","145,614","152,942","149,612",,,,,,,,,"146,432","145,936"
+$,Thousand,,Cash Operating Margin, ,,,"304,161",,,,,,,,,,"57,874","66,940"
+$,Thousand,Indent,Amortization for Pinos Altos,"1,524","21,577","36,989","37,528","42,486",,,,,,,,,"57,459","63,125"
+$,Thousand,,Operating profit post amortization, ,,,"267,331",,,,,,,,,,415,"3,815"
+,,Abstract Bold,Pinos Altos - Cost Reconciliation:, ,,,,,,,,,,,,,,
+$,Thousand,,Pinos Altos - Production costs,"11,819","90,293","145,614","146,503","149,612",,,,,,,,,"146,432","145,936"
+$,Thousand,Indent,"Pinos Altos - Byproduct revenues, net of smelting, refining and marketing charges",-625,"-25,052","-60,653","-69,478","-48,937",,,,,,,,,"-22,141","-27,339"
+$,Thousand,Indent,Pinos Altos - Inventory adjustment,"-5,356","2,925","1,871","2,658",-367,,,,,,,,,"-1,639","1,408"
+$,Thousand,Indent,Pinos Altos - Non-cash reclamation provision,-100,-858,"-1,372",-764,-405,,,,,,,,, -   , -   
+$,Thousand,Indent,     Pinos Altos - Stripping costs,-253,"-11,857","-24,260","-12,762","-6,633",,,,,,,,, -   , -   
+$,Thousand,Indent,Pinos Altos - Cash operating costs,"5,485","55,451","61,200","66,157","93,270",,,,,,,,,"122,652","120,005"
+$,Actual,bold,Pinos Altos - Total cash costs ( Per ounce of commercial production),570,425,299,286,423,,,,,,,,,"1,237","1,229"
+$,Thousand,,Pinos Altos - Minesite operating costs (USD$),"6,110","80,503","119,813","135,732","139,511",,,,,,,,,"142,194","146,096"
+$,Actual,,Pinos Altos - Minesite costs per tonne (USD$),27,35,27,31,37,,,,,,,,,94,88
+,,, , ,,,,,,,,,,,,,,
+,,Abstract bold color Indent,Costs for Pinos Altos (stand alone), ,,,,,,,,,,,,,,
+$,Thousand,Indent,Pinos Altos - Production costs, ,,"131,044","128,618","130,129","123,342","105,175","114,557","108,726","138,362","130,190","124,678","141,488","144,489","145,936"
+$,Thousand,Indent,Cash Operating Margin, ,,"190,030","234,495","173,074","128,441","145,734","179,820","149,179","132,493","119,387","119,605","117,958","55,341","66,940"
+$,Thousand,Indent,Amortization for Pinos Altos, ,,"31,387","31,051","35,268","42,957","41,894","64,101","59,970","70,203","58,302","65,401","61,268","57,459","63,125"
+$,Thousand,,Operating profit post amortization, ,,"158,643","203,444","137,806","85,484","103,840","115,719","89,209","62,290","61,085","54,204","56,690","-2,118","3,815"
+,,Abstract Bold,Pinos Altos - Cost Reconciliation, ,,,,,,,,,,,,,,
+$,Thousand,,Pinos Altos - Production costs, ,,"131,044","128,618","130,129","123,342","105,175","114,557","108,726","138,362","130,190","124,678","141,488","144,489","145,936"
+$,Thousand,Indent,Pinos Altos - By-product metal revenues, ,,"-60,091","-67,720","-48,417","-31,643","-37,030","-44,118","-43,169","-36,301","-35,322","-34,646","-31,965","-21,983","-27,339"
+$,Thousand,Indent,Pinos Altos - Inventory and other adjustments, ,,"1,420","2,718",-884,-581,"6,458","-1,840","5,926","-2,767","4,229","-4,089",-647,"-1,939","1,408"
+$,Thousand,Indent,Pinos Altos - Non-cash reclamation provision, ,,-907,-205,-297,,,,,,,,, -   , -   
+$,Thousand,Indent,"Cash and cash equivalents, end of period", ,,"-24,260","-12,762","-5,581",,,,,,,,, -   , -   
+$,Thousand,Indent,Pinos Altos - Cash operating costs, ,,"47,206","50,649","74,950","91,118","74,603","68,599","71,483","99,294","99,097","85,943","108,876","120,567","120,005"
+$,Actual,Bold,Pinos Altos - Total cash costs (Per ounce of commercial production), ,,284,276,412,533,387,356,395,548,639,749,858,"1,249","1,229"
+$,Thousand,,Pinos Altos - Minesite operating costs (USD$), ,,"106,023","118,466","123,430","120,966","107,656","110,859","114,791","135,301","133,264","117,941","141,729","142,194","146,096"
+$,Actual,,Pinos Altos - Minesite costs per tonne (USD$), ,,36,41,45,48,45,49,50,61,66,66,75,94,88
+,,Abstract bold color Indent,Capital Expenditures (Pinos Altos), ,,,,,,,,,,,,,,
+$,Thousand,,Total Capital Expenditures, ,,,,,,"61,829","59,572","49,337","40,297","41,959","27,972","45,993","53,250","32,645"
+$,Thousand,,Total Sustaining Capital Expenditures, ,,,,,,"35,450","47,410","39,986","35,070","28,098","24,242","22,216","26,501","28,449"
+,,Abstract bold color Indent,Costs for Creston Mascota (stand alone), ,,,,,,,,,,,,,,
+$,Thousand,Indent,Creston Mascota - Production costs, ,,"14,570","24,324","19,843","28,007","26,278","27,341","31,490","37,270","35,801","35,088","8,165","1,943", -   
+$,Thousand,Indent,Cash Operating Margin, ,,"42,685","63,227","21,679","31,566","40,194","35,626","32,308","17,403","42,222","42,674","19,619","2,533", -   
+$,Thousand,Indent,Amortization for Creston Mascota, ,,"5,602","6,477","7,218","9,626","17,868","18,898","22,605","18,465","18,538","14,577",334, -   , -   
+$,Thousand,,Operating profit post amortization, ,,"37,083","56,750","14,461","21,940","22,326","16,728","9,703","-1,062","23,684","28,097","19,285","2,533", -   
+,,Abstract Bold,Creston Mascota - Cost Reconciliation, ,,,,,,,,,,,,,,
+$,Thousand,,Creston Mascota - Production costs, ,,"14,570","17,885","16,726","28,007","26,278","27,341","31,490","37,270","35,801","35,088","8,165","1,943", -   
+$,Thousand,Indent,Creston Mascota - By-product metal revenues, ,,-562,"-1,758",-520,"-1,574","-2,412","-3,426","-4,535","-4,818","-9,671","-10,116","-2,914",-158, -   
+$,Thousand,Indent,Creston Mascota - Inventory and other adjustments, ,,451,-60,517,"1,232",-328,472,862,"1,326",678,"-1,622",-22,300, -   
+$,Thousand,Indent,Creston Mascota - Non-cash reclamation provision, ,,-465,-559,-108,,,,,,,,, -   , -   
+$,Thousand,Indent,Creston Mascota - Stripping costs, ,,,,"-1,052",,,,,,,,, -   , -   
+$,Thousand,Indent,Creston Mascota - Cash operating costs, ,,"13,994","15,508","15,563","27,665","23,538","24,387","27,817","33,778","26,808","23,350","5,229","2,085", -   
+$,Actual,Bold,Creston Mascota - Total cash costs (Per ounce of commercial production), ,,366,326,485,578,430,516,575,841,554,605,408,793, -   
+$,Thousand,,Creston Mascota - Minesite operating costs (USD$), ,,"13,790","17,266","16,081","28,877","25,521","27,264","32,049","38,123","35,679","28,252", -   , -   , -   
+$,Actual,,Creston Mascota - Minesite costs per tonne (USD$), ,,9,12,16,16,12,13,15,27,33,54, -   , -   , -   
+,,Abstract bold color Indent,Capital Expenditures (Creston Mascota), ,,,,,,,,,,,,,,
+$,Thousand,,Total Capital Expenditures, ,,,,,,"4,195","9,287","8,108","19,500", -   , -   , -   , -   , -   
+$,Thousand,,Total Sustaining Capital Expenditures, ,,,,,,"4,195","9,287","6,753","4,167", -   , -   , -   , -   , -   
+,,Abstract bold color Indent,Supplementary Data,,,,,,,,,,,,,,,
+$,Thousand,,Capital Expenditures,"125,285","100,663","29,115","23,537","45,545","47,129","61,602","59,224","49,043","40,061","41,429","27,600","45,392","52,413","32,645"
+$,Thousand,,Capitalized Exploration,"7,970","3,812","3,292",675,"1,937","1,236",227,348,294,236,530,371,601,837,"2,793"
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,,,,,,,,,,,,,,
+,Actual,,Labour,,23%,21%,22%,26%,23%,23%,20%,23%,19%,24%,21%,25%,25%,28%
+,Actual,, Contractors,,11%,8%,6%,5%,5%,6%,6%,27%,8%,7%,13%,10%,11%,12%
+,Actual,,Energy,,16%,15%,13%,15%,14%,14%,10%,8%,13%,12%,10%,10%,10%,12%
+,Actual,,Chemical,,5%,4%,4%,5%,9%,10%,9%,10%,10%,9%,9%,9%,8%,8%
+,Actual,,Consumables/Other,,45%,52%,55%,49%,49%,47%,55%,32%,50%,48%,47%,46%,46%,40%
+,Actual,Bold,Total,,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%,100%
+$,Thousand,,Depreciable Assets,,"478,587",,"471,694","464,390","411,437","393,147","479,786","464,494","435,542","417,757","378,714","362,203","351,715","326,409"
+$,Actual,,Total Cash Costs (US$/oz),570,425,299,286,423,533,387,356,395,548,639,749,858,"1,249","1,229"
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

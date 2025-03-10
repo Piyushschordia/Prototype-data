@@ -1,0 +1,43 @@
+Currency,Unit,,Description,FY 23,Q3 24
+,,,Period Ended On (MM/DD/YYYY),12/31/2023,09/30/2024
+,,,Reported Date (MM/DD/YYYY),02/15/2024,10/30/2024
+,,Abstract bold color,Goldex Mine,,
+,Thousand,Indent,Goldex - Ore milled ('000 tonnes),"2,886.9",739.1
+,Actual,Indent,Goldex - Grade gold (g/tonne),1.74,1.51
+,Actual,Indent,Goldex - Mill recovery %,87.50%,84.70%
+,Actual,Indent,Goldex - Payable metal produced gold Oz,"140,983","30,334"
+,Actual,Indent,Goldex - Payable metal produced copper (tonnes),39,329
+,Actual,Indent,Goldex - Payable metal sold gold oz,"140,240","31,671"
+,Actual,Indent,Goldex - Payable metal sold copper (tonnes),39,326
+$,Thousand,Indent Bold,Revenue from Goldex mine,"272,801","81,384"
+,,Abstract bold color,Costs for Goldex,,
+$,Thousand,Indent,Goldex - Production costs,"112,022","34,265"
+$,Thousand,,Cash Operating Profit,"160,779","47,119"
+$,Thousand,Indent,Amortization for Goldex,"39,069","11,630"
+$,Thousand,,Operating profit post amortization,"121,710","35,489"
+,,,Goldex - Cost Reconciliation:,,
+$,Thousand,,Goldex - Production costs,"112,022","34,265"
+$,Thousand,Indent,Goldex - By-product metal revenues,-378,"-2,743"
+$,Thousand,Indent,Goldex - Inventory and other adjustments,"3,930",-251
+$,Thousand,Indent,     Goldex - Non-cash reclamation provision,,
+$,Thousand,Indent,Goldex - Cash operating costs,"115,574","31,271"
+$,Actual,Indent Bold,Goldex - Total cash costs (Per ounce of commercial production),820,"1,031"
+C$,Thousand,Indent,Goldex - Minesite operating costs (C$),"153,374","45,077"
+C$,Actual,Indent,Goldex - Minesite costs per tonne (C$),53.0,61.0
+,,Abstract bold color Indent,Capital Expenditures,,
+$,Thousand,,Total Capital Expenditures,"82,885","19,088"
+$,Thousand,,Total Sustaining Capital Expenditures,"25,908","17,258"
+,,Abstract bold color Indent,Supplementary Data,,
+$,Thousand,,Capital Expenditures,"47,940","18,335"
+$,Thousand,,Capitalized Exploration,"3,754",753
+,,Abstract bold color Indent,Expense Breakdown By Major Categories,,
+,Actual,,Labour,32%,34%
+,Actual,, Contractors,25%,25%
+,Actual,,Energy,7%,6%
+,Actual,,Chemical,3%,2%
+,Actual,,Consumables/Other,33%,33%
+,Actual,Bold,Total,100%,100%
+$,Thousand,,Depreciable Assets,"259,623",
+$,Actual,,Total Cash Costs (US$/oz),820,"1,031"
+,,,,,
+,,,,,
